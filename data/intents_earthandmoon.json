@@ -14,7 +14,7 @@
                 "Explore Earth with me",
                 "Visit Earth",
                 "Let's explore our home planet",
-                "Can we see Earth?",
+                "Can we see Earth",
                 "Journey to Earth",
                 "Orbit around Earth",
                 "Trip to Earth",
@@ -22,7 +22,7 @@
                 "Let's orbit Earth",
                 "Discover Earth",
                 "Head to Earth",
-                "What is the third planet?",
+                "What is the third planet",
                 "Lets go to the 3rd planet"
             ],
             "responses": [
@@ -38,12 +38,12 @@
                 "Describe Earth",
                 "Facts about Earth",
                 "Information on Earth",
-                "What makes Earth unique?",
+                "What makes Earth unique",
                 "Earth features",
                 "Explain Earth's properties",
                 "Characteristics of Earth",
                 "Details about Earth",
-                "What is Earth made of?"
+                "What is Earth made of"
             ],
             "responses": [
                 "Earth is our unique home in the solar system, the third planet from the Sun. It's special because it has liquid water, a breathable atmosphere, and diverse life forms. Its surface is made of continents and oceans, and it has a core, mantle, and crust. Earth's amazing variety of landscapes, climates, and life makes it unlike any other planet we know!"
@@ -53,11 +53,11 @@
         {
             "tag": "earthHabitability",
             "patterns": [
-                "Why is Earth blue?",
-                "Why does Earth support life?",
-                "Why is Earth habitable?",
-                "Why is Earth different?",
-                "Why are oceans blue?"
+                "Why is Earth blue",
+                "Why does Earth support life",
+                "Why is Earth habitable",
+                "Why is Earth different",
+                "Why are oceans blue"
             ],
             "responses": [
                 "Earth looks blue from space because its surface is mostly covered in water, which reflects blue light. It supports life thanks to its perfect distance from the Sun, which allows for a suitable temperature range, along with an atmosphere that holds just the right mix of gases for breathing and water in all its forms. These unique conditions make Earth habitable and a thriving planet for countless species, including humans."
@@ -71,14 +71,14 @@
                 "What's special about the Moon",
                 "Describe the Moon",
                 "Moon facts",
-                "Why does the Moon change shape?",
+                "Why does the Moon change shape",
                 "Information about the Moon",
                 "Moon features",
-                "Why does the Moon shine?",
+                "Why does the Moon shine",
                 "Details about the Moon",
                 "Moon exploration",
-                "How big is the Moon?",
-                "Why is the Moon important?",
+                "How big is the Moon",
+                "Why is the Moon important",
                 "Characteristics of the Moon",
                 "Moon's surface",
                 "Let's go to the Moon"
@@ -91,16 +91,16 @@
         {
             "tag": "earthsOceans",
             "patterns": [
-                "Why are Earth's oceans important?",
+                "Why are Earth's oceans important",
                 "Tell me about Earth's oceans",
-                "What lives in Earth's oceans?",
+                "What lives in Earth's oceans",
                 "Facts about the oceans",
-                "How big are Earth's oceans?",
+                "How big are Earth's oceans",
                 "Ocean animals",
-                "Why is the ocean salty?",
+                "Why is the ocean salty",
                 "Ocean exploration",
-                "What's at the bottom of the ocean?",
-                "How do oceans affect weather?",
+                "What's at the bottom of the ocean",
+                "How do oceans affect weather",
                 "Importance of oceans",
                 "Ocean ecosystems",
                 "Types of ocean life",
@@ -114,18 +114,18 @@
         {
             "tag": "dayNightCycle",
             "patterns": [
-                "Why do we have day and night?",
-                "How does day and night happen?",
+                "Why do we have day and night",
+                "How does day and night happen",
                 "Explain day and night",
-                "What causes day and night?",
-                "Why is it day sometimes and night at others?",
+                "What causes day and night",
+                "Why is it day sometimes and night at others",
                 "Day and night cycle",
-                "How does Earth's rotation cause day and night?",
-                "Why is it dark at night?",
-                "What makes it daytime?",
+                "How does Earth's rotation cause day and night",
+                "Why is it dark at night",
+                "What makes it daytime",
                 "Rotation of Earth and day/night",
-                "Why do we have sunlight during the day?",
-                "How long does Earth take to rotate?",
+                "Why do we have sunlight during the day",
+                "How long does Earth take to rotate",
                 "Earth spinning and day/night"
             ],
             "responses": [
@@ -136,20 +136,20 @@
         {
             "tag": "lunarExploration",
             "patterns": [
-                "Can we explore the Moon?",
-                "What's it like on the Moon?",
+                "Can we explore the Moon",
+                "What's it like on the Moon",
                 "Lunar exploration facts",
-                "Have people been to the Moon?",
+                "Have people been to the Moon",
                 "Moon missions",
-                "What did we discover on the Moon?",
+                "What did we discover on the Moon",
                 "Human exploration of the Moon",
                 "Lunar rovers",
                 "Apollo missions",
-                "How do astronauts live on the Moon?",
+                "How do astronauts live on the Moon",
                 "Future Moon missions",
                 "Exploring the Moon's surface",
                 "Moon landing",
-                "What have we learned from the Moon?"
+                "What have we learned from the Moon"
             ],
             "responses": [
                 "Did you know that exploring the Moon is super exciting? It's like a whole new world out there! With mountains, flat areas called 'maria', and no atmosphere, it's unlike anything we have on Earth - no weather or sound! Humans first set foot on the Moon in 1969 during the Apollo 11 mission, and since then, there have been many more missions to explore its mysteries. They even used special rovers to zoom around and check out more of the surface. Recent missions are focused on studying the Moon's resources, like water ice hidden in shadowy craters. This could be really important for future space exploration and setting up bases on the Moon. So, who knows what other secrets the Moon is hiding?"

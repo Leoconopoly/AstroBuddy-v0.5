@@ -3,9 +3,9 @@
         {
             "tag": "misconceptionAboutMoon",
             "patterns": [
-                "Can you breathe on the moon?",
-                "Is there air on the moon?",
-                "Does the moon have gravity?"
+                "Can you breathe on the moon",
+                "Is there air on the moon",
+                "Does the moon have gravity"
             ],
             "responses": [
                 "The Moon doesn't have an atmosphere like Earth, so there's no air to breathe. It does have gravity, but it's much weaker than Earth's, so astronauts can jump much higher there."
@@ -15,10 +15,10 @@
         {
             "tag": "misconceptionAboutPluto",
             "patterns": [
-                "Is Pluto still a planet?",
-                "Why isn't Pluto considered a planet anymore?",
-                "Why is Pluto not a planet anymore?",
-                "Why is Pluto considered a dwarf planet?"
+                "Is Pluto still a planet",
+                "Why isn't Pluto considered a planet anymore",
+                "Why is Pluto not a planet anymore",
+                "Why is Pluto considered a dwarf planet"
             ],
             "responses": [
                 "Pluto was reclassified as a dwarf planet in 2006 because it doesn't meet all the criteria to be considered a full-sized planet. One main reason is that it hasn't cleared its orbit of other debris."
@@ -28,8 +28,8 @@
         {
             "tag": "misconceptionAboutSpaceTravel",
             "patterns": [
-                "Can you fly to space in a plane?",
-                "Is space travel like flying in an airplane?"
+                "Can you fly to space in a plane",
+                "Is space travel like flying in an airplane"
             ],
             "responses": [
                 "Space travel is very different from flying in an airplane. Airplanes can't go to space because they need air to lift and propel them, which is not available in space. Spacecraft use rockets to escape Earth's gravity."
@@ -39,8 +39,8 @@
         {
             "tag": "misconceptionAboutLivingInSpace",
             "patterns": [
-                "Do astronauts float because there's no gravity in space?",
-                "Why do astronauts float?"
+                "Do astronauts float because there's no gravity in space",
+                "Why do astronauts float"
             ],
             "responses": [
                 "Astronauts float in space because they are in a state of continuous free fall towards Earth, but they move so fast forward that they keep missing it. This creates the sensation of weightlessness, even though gravity still exists."
@@ -50,9 +50,9 @@
         {
             "tag": "misconceptionAboutBlackHoles",
             "patterns": [
-                "Can a black hole swallow Earth?",
-                "Do black holes suck everything around them?",
-                "Are black holes vacuum cleaners of space?"
+                "Can a black hole swallow Earth",
+                "Do black holes suck everything around them",
+                "Are black holes vacuum cleaners of space"
             ],
             "responses": [
                 "Black holes don't roam around the universe swallowing planets. They have a strong gravitational pull near their surface, but from a distance, they don't suck things in more than a star of the same mass would."
@@ -62,9 +62,9 @@
         {
             "tag": "misconceptionAboutSun",
             "patterns": [
-                "Is the Sun on fire?",
-                "What keeps the Sun burning?",
-                "Does the Sun burn like a fire?"
+                "Is the Sun on fire",
+                "What keeps the Sun burning",
+                "Does the Sun burn like a fire"
             ],
             "responses": [
                 "The Sun is not on fire like wood burns in a fireplace. It produces light and heat through nuclear fusion, where hydrogen atoms combine to form helium, releasing a huge amount of energy."
@@ -74,8 +74,8 @@
         {
             "tag": "misconceptionAboutAstronauts",
             "patterns": [
-                "Can astronauts jump off the moon and float away?",
-                "Do astronauts need ropes to keep them on the Moon?"
+                "Can astronauts jump off the moon and float away",
+                "Do astronauts need ropes to keep them on the Moon"
             ],
             "responses": [
                 "Astronauts can't jump off the Moon and float away. The Moon's gravity, though weaker than Earth's, is enough to keep them grounded without the need for ropes."
@@ -85,9 +85,9 @@
         {
             "tag": "misconceptionAboutTheUniverse",
             "patterns": [
-                "Is the universe infinite?",
-                "Does space go on forever?",
-                "How big is the universe?"
+                "Is the universe infinite",
+                "Does space go on forever",
+                "How big is the universe"
             ],
             "responses": [
                 "The observable universe has a limit to what we can see, about 93 billion light-years in diameter. Beyond that, we're not sure if the universe is infinite or not."
@@ -97,8 +97,8 @@
         {
             "tag": "misconceptionAboutGravity",
             "patterns": [
-                "Is there gravity in space?",
-                "Why do things float in space if there's gravity?"
+                "Is there gravity in space",
+                "Why do things float in space if there's gravity"
             ],
             "responses": [
                 "There is gravity in space, which keeps planets in orbit around stars and galaxies together. Astronauts float because they are in free-fall around the Earth, creating a sensation of weightlessness."
@@ -108,9 +108,9 @@
         {
             "tag": "misconceptionAboutMars",
             "patterns": [
-                "Is there water on Mars?",
-                "Can humans live on Mars?",
-                "Is Mars habitable?"
+                "Is there water on Mars",
+                "Can humans live on Mars",
+                "Is Mars habitable"
             ],
             "responses": [
                 "Mars has water, but most of it is frozen in the polar ice caps. The thin atmosphere and cold temperatures make it difficult for humans to live there without special equipment."
@@ -120,8 +120,8 @@
         {
             "tag": "misconceptionAboutMoonComposition",
             "patterns": [
-                "Is the Moon made of cheese?",
-                "Is the Moon made of green cheese?"
+                "Is the Moon made of cheese",
+                "Is the Moon made of green cheese"
             ],
             "responses": [
                 "The Moon is not made of cheese or green cheese. It's made of rock and dust, similar to Earth's crust, but without water and an atmosphere."

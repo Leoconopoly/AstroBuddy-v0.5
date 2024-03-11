@@ -3,7 +3,7 @@
         {
             "tag": "marsOverview",
             "patterns": [
-                "Can we go to Mars?",
+                "Can we go to Mars",
                 "Visit Mars",
                 "Explore the Red Planet",
                 "Show me Mars",
@@ -17,18 +17,18 @@
                 "Discover Mars",
                 "Heading to Mars",
                 "Mars adventure",
-                "Can we explore Mars?",
+                "Can we explore Mars",
                 "Tell me about Mars",
-                "What's Mars like?",
+                "What's Mars like",
                 "Describe Mars",
                 "Mars facts",
                 "Information about Mars",
-                "Why is Mars red?",
+                "Why is Mars red",
                 "Mars's environment",
-                "Is Mars like Earth?",
+                "Is Mars like Earth",
                 "Features of Mars",
                 "Characteristics of Mars",
-                "What is the fourth planet?",
+                "What is the fourth planet",
                 "Lets go to the 4th planet"
             ],
             "responses": [
@@ -40,12 +40,12 @@
             "tag": "marsFacts",
             "patterns": [
                 "Interesting facts about Mars",
-                "Why is Mars red?",
+                "Why is Mars red",
                 "Tell me a Mars fact",
                 "Mars trivia",
                 "Cool Mars details",
                 "Facts about Mars",
-                "What's special about Mars?",
+                "What's special about Mars",
                 "Amazing things about Mars",
                 "Fun Mars information"
             ],
@@ -62,11 +62,11 @@
             "tag": "marsExploration",
             "patterns": [
                 "Missions to Mars",
-                "Have we been to Mars?",
+                "Have we been to Mars",
                 "Rovers on Mars",
                 "Exploring Mars",
                 "Mars missions",
-                "What have we discovered on Mars?",
+                "What have we discovered on Mars",
                 "Space missions to Mars",
                 "History of Mars exploration",
                 "Robots on Mars"

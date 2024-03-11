@@ -3,11 +3,11 @@
         {
             "tag": "aboutChatbot",
             "patterns": [
-                "What are you?",
-                "Who created you?",
-                "Are you a robot?",
-                "What's your name?",
-                "Who are you?",
+                "What are you",
+                "Who created you",
+                "Are you a robot",
+                "What's your name",
+                "Who are you",
                 "What is your name"
             ],
             "responses": [
@@ -19,11 +19,11 @@
         {
             "tag": "abilitiesChatbot",
             "patterns": [
-                "What can you do?",
-                "How can you help me with homework?",
-                "Can you tell me space stories?",
-                "What do you know about planets?",
-                "Are you like a space guide?"
+                "What can you do",
+                "How can you help me with homework",
+                "Can you tell me space stories",
+                "What do you know about planets",
+                "Are you like a space guide"
             ],
             "responses": [
                 "I'm here to share loads of cool space facts, help with your homework, and even tell you jokes or stories about the stars and planets. Think of me as your personal guide to the universe, ready to take you on virtual tours around space. Whether it's learning about the planets, laughing at silly space jokes, or discovering the wonders of the universe, I've got you covered. So, what shall we explore today?"
@@ -32,8 +32,8 @@
         {
             "tag": "userChatbotRelations",
             "patterns":[
-                "Do you like talking to me?",
-                "Do you like me?",
+                "Do you like talking to me",
+                "Do you like me",
                 "Can I be your friend"
             ],
             "responses":[
@@ -43,11 +43,11 @@
         {
             "tag": "knowledgeChatbot",
             "patterns":[
-                "Can you answer all my questions?",
-                "How smart are you?",
-                "Are you learning from me?",
-                "What makes you special?",
-                "How do you know so much about space?"
+                "Can you answer all my questions",
+                "How smart are you",
+                "Are you learning from me",
+                "What makes you special",
+                "How do you know so much about space"
             ],
             "responses": [
                 "I'm always learning more about space to make our conversations interesting, fun and informative.",
@@ -57,7 +57,7 @@
         {
             "tag": "favouriteplanetChatbot",
             "patterns":[
-                "Do you have a favorite planet?"
+                "Do you have a favorite planet"
             ],
             "responses":[
                 "While I don't have a favorite planet, I think each one in our solar system has something special to offer."
@@ -66,16 +66,16 @@
         {
             "tag": "howToUse",
             "patterns": [
-                "How do I use you?",
-                "What should I ask you?",
-                "Can you guide me?",
-                "How do I start talking to you?",
-                "What can I ask you about?",
-                "How do I get you to tell me a space fact?",
-                "What are some things you can do?",
-                "How can I make the best use of you?",
-                "Can you give me a tour of space?",
-                "How do I ask you questions?"
+                "How do I use you",
+                "What should I ask you",
+                "Can you guide me",
+                "How do I start talking to you",
+                "What can I ask you about",
+                "How do I get you to tell me a space fact",
+                "What are some things you can do",
+                "How can I make the best use of you",
+                "Can you give me a tour of space",
+                "How do I ask you questions"
             ],
             "responses": [
                 "Just type in a question or select an option, and I'll do my best to provide you with an interesting answer or fact about space!",
@@ -87,10 +87,10 @@
         {
             "tag": "chatbotLimitations",
             "patterns": [
-                "Is there something you can't do?",
-                "Do you not know something?",
-                "What if I ask something too hard?",
-                "What can't you help me with?"
+                "Is there something you can't do",
+                "Do you not know something",
+                "What if I ask something too hard",
+                "What can't you help me with"
                 
             ],
             "responses": [
@@ -102,16 +102,16 @@
         {
             "tag": "chatbotPotentialMistakes",
             "patterns":[
-                "Can you make mistakes?",
-                "Are you always right?",
-                "What if you're wrong?",
-                "Do you ever get things wrong?",
-                "Can you give me wrong information?",
-                "What if you don't know the answer?",
-                "Are you always accurate?",
-                "Can you lie to me?",
-                "Can you be wrong?",
-                "Are you always correct?"
+                "Can you make mistakes",
+                "Are you always right",
+                "What if you're wrong",
+                "Do you ever get things wrong",
+                "Can you give me wrong information",
+                "What if you don't know the answer",
+                "Are you always accurate",
+                "Can you lie to me",
+                "Can you be wrong",
+                "Are you always correct"
             ],
             "responses": [
                 "I'm programmed to provide accurate information, but I might not always get things right. If I make a mistake, I'm here to learn and improve.",

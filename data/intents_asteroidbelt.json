@@ -3,25 +3,25 @@
         {
             "tag": "asteroidBeltOverview",
             "patterns": [
-                "Can we go see the asteroid belt?",
+                "Can we go see the asteroid belt",
                 "Trip to the asteroid belt",
                 "I want to explore the asteroid belt",
-                "What's in the asteroid belt?",
+                "What's in the asteroid belt",
                 "Fly through the asteroid belt with me",
                 "Show me the asteroid belt",
                 "Asteroid belt adventure",
                 "Space journey to the asteroid belt",
                 "Visit the asteroid belt",
                 "Take me to the asteroid belt",
-                "What's the asteroid belt?",
+                "What's the asteroid belt",
                 "Tell me about the asteroid belt",
-                "Why is the asteroid belt important?",
+                "Why is the asteroid belt important",
                 "Cool facts about the asteroid belt",
-                "Is the asteroid belt like a planet?",
-                "Where is the asteroid belt?",
-                "What makes the asteroid belt special?",
+                "Is the asteroid belt like a planet",
+                "Where is the asteroid belt",
+                "What makes the asteroid belt special",
                 "Describe the asteroid belt",
-                "What are asteroids?",
+                "What are asteroids",
                 "Asteroid"
             ],
             "responses": [
@@ -36,7 +36,7 @@
                 "Interesting stuff about the asteroid belt",
                 "Weird things in the asteroid belt",
                 "Amazing asteroid belt facts",
-                "What's cool about the asteroid belt?",
+                "What's cool about the asteroid belt",
                 "Asteroid belt secrets",
                 "Things to know about the asteroid belt",
                 "Cool asteroid belt trivia",
@@ -50,8 +50,8 @@
         {
             "tag": "asteroidbeltExploration",
             "patterns": [
-                "Have we explored the asteroid belt?",
-                "Who studies the asteroid belt?",
+                "Have we explored the asteroid belt",
+                "Who studies the asteroid belt",
                 "Space missions to the asteroid belt",
                 "Robots in the asteroid belt",
                 "Learning about asteroids",
@@ -66,10 +66,10 @@
         {
             "tag": "asteroidbeltComposition",
             "patterns": [
-                "What have we found in the asteroid belt?",
-                "What are asteroids made of?",
-                "What's inside the asteroid belt?",
-                "What's the asteroid belt made of?",
+                "What have we found in the asteroid belt",
+                "What are asteroids made of",
+                "What's inside the asteroid belt",
+                "What's the asteroid belt made of",
                 "Discoveries in the asteroid belt"
             ],
             "responses": [

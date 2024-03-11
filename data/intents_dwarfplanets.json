@@ -3,20 +3,20 @@
         {
             "tag": "dwarfPlanetsOverview",
             "patterns": [
-                "Can we go to the dwarf planets?",
+                "Can we go to the dwarf planets",
                 "Trip to the dwarf planets",
                 "Explore the Kuiper Belt",
-                "What are dwarf planets?",
+                "What are dwarf planets",
                 "Show me dwarf planets",
                 "Space adventure to dwarf planets",
                 "Discovering dwarf planets",
                 "Flying to the Kuiper Belt",
-                "What's past Neptune?",
-                "Is there anything beyond Neptune?",
+                "What's past Neptune",
+                "Is there anything beyond Neptune",
                 "Tell me about dwarf planets",
                 "Facts about dwarf planets for kids",
-                "What makes a planet a dwarf planet?",
-                "What's special about dwarf planets?",
+                "What makes a planet a dwarf planet",
+                "What's special about dwarf planets",
                 "Describe the Kuiper Belt",
                 "Dwarf planets in our solar system"
             ],
@@ -31,8 +31,8 @@
                 "Let's visit Pluto",
                 "Journey to Pluto",
                 "Cool things about Pluto",
-                "Is Pluto still a planet?",
-                "Why was Pluto demoted?"
+                "Is Pluto still a planet",
+                "Why was Pluto demoted"
             ],
             "responses": [
                 "Pluto, was once considered the ninth planet, but is now called a dwarf planet. It's an interesting icy world in the Kuiper Belt. This change caused a lot of discussion but helped scientists decide what makes a planet. Even though it is no longer a planet, Pluto is still an amazing destination for exploration and discovery!"
@@ -43,10 +43,10 @@
             "tag": "dwarfPlanetsFacts",
             "patterns": [
                 "Tell me a cool fact about dwarf planets",
-                "What's weird about dwarf planets?",
+                "What's weird about dwarf planets",
                 "Give me a fun fact about the Kuiper Belt",
-                "What's so special about dwarf planets?",
-                "Can you share a secret about dwarf planets?"
+                "What's so special about dwarf planets",
+                "Can you share a secret about dwarf planets"
             ],
             "responses": [
                 "Eris is almost as big as Pluto and is the heavyweight champion of dwarf planets!",
@@ -58,10 +58,10 @@
         {
             "tag": "plutoFacts",
             "patterns": [
-                "What's cool about Pluto?",
+                "What's cool about Pluto",
                 "Tell me something fun about Pluto",
                 "Facts about Pluto",
-                "Can you give me a fun fact about Pluto?"
+                "Can you give me a fun fact about Pluto"
             ],
             "responses": [
                 "Pluto has a heart-shaped glacier as big as Texas, made of frozen nitrogen!",
@@ -74,7 +74,7 @@
             "tag": "generalDwarfPlanetExploration",
             "patterns": [
                 "Space missions to dwarf planets",
-                "What have we found out about dwarf planets?",
+                "What have we found out about dwarf planets",
                 "Dwarf planets space robots",
                 "Dwarf planets discoveries",
                 "Study of dwarf planets"
@@ -99,7 +99,7 @@
         {
             "tag": "kuiperBeltExploration",
             "patterns": [
-                "Who has visited the Kuiper Belt?",
+                "Who has visited the Kuiper Belt",
                 "Flying to the Kuiper Belt",
                 "Exploring the Kuiper Belt"
             ],

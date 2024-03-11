@@ -3,9 +3,9 @@
         {
             "tag": "beyondSolarSystemTravel",
             "patterns": [
-                "Can we travel beyond the solar system?",
+                "Can we travel beyond the solar system",
                 "Let's go past the solar system",
-                "What's outside our solar system?",
+                "What's outside our solar system",
                 "Journey beyond the stars",
                 "Explore outside the solar system",
                 "Show me what's beyond our solar system",
@@ -32,7 +32,7 @@
         {
             "tag": "closestStar",
             "patterns":[       
-                "What's the closest star to us?",
+                "What's the closest star to us",
                 "What is our closest star"
             ],
             "responses":[
@@ -44,9 +44,9 @@
             "tag":"galaxyOverview",
             "patterns":[                
                 "Cool things beyond our solar system",
-                "Is there life outside our solar system?",
-                "What's special about other galaxies?",
-                "What's unique about galaxies?"
+                "Is there life outside our solar system",
+                "What's special about other galaxies",
+                "What's unique about galaxies"
             ],
             "responses":[
                 "Other galaxies are like huge space cities, full of stars, planets, and maybe even space creatures!"
@@ -56,7 +56,7 @@
         {
             "tag":"starsFacts",
             "patterns":[
-                "What are stars?",
+                "What are stars",
                 "Amazing things about stars"
             ],
             "responses": [
@@ -67,9 +67,9 @@
         {
             "tag": "earthlikeOverview",
             "patterns": [
-                "Are there other planets like Earth?",
-                "Have we found other planets like Earth?",
-                "Can we go to other planets like Earth?"
+                "Are there other planets like Earth",
+                "Have we found other planets like Earth",
+                "Can we go to other planets like Earth"
             ],
             "responses": [
                 "Scientists think there might be planets like Earth in other parts of the universe, but they're so far away, we can't visit them yet."
@@ -100,12 +100,12 @@
             "patterns": [
                 "Exploring the universe",
                 "Space missions beyond the solar system",
-                "What have we discovered about space?",
+                "What have we discovered about space",
                 "Learning about other galaxies",
                 "Space discoveries",
                 "Study of the universe",
                 "Voyager probe's journey",
-                "What's out there in space?",
+                "What's out there in space",
                 "Universe exploration"
             ],
             "responses": [

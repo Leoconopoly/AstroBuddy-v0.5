@@ -3,7 +3,7 @@
         {
             "tag": "venusOverview",
             "patterns": [
-                "Can we visit Venus?",
+                "Can we visit Venus",
                 "Travel to Venus",
                 "Explore Venus",
                 "Show me Venus",
@@ -13,23 +13,23 @@
                 "Let's see Venus",
                 "Heading to Venus",
                 "Venus expedition",
-                "Can we explore Venus?",
+                "Can we explore Venus",
                 "Fly me to Venus",
                 "Discover Venus",
                 "Space journey to Venus",
                 "I want to learn about Venus",
                 "Tell me about Venus",
-                "What is Venus like?",
+                "What is Venus like",
                 "Facts about Venus",
-                "Why is Venus unique?",
+                "Why is Venus unique",
                 "Describe Venus",
                 "Characteristics of Venus",
                 "Information on Venus",
                 "Venus's atmosphere",
-                "What makes Venus different?",
+                "What makes Venus different",
                 "Venus's rotation",
                 "Lets go to the second planet",
-                "What is the 2nd planet?"
+                "What is the 2nd planet"
             ],
             "responses": [
                 "Come along on an amazing adventure to Venus, often called Earth's twin, but with its own fascinating secrets! As we journey to this mysterious planet, get ready to learn about its unique spin - it goes in the opposite direction to most planets! Venus is special because it has a thick atmosphere made mostly of carbon dioxide, and its clouds are filled with sulfuric acid. While exploring Venus, we'll find out why it's so hot, even though it's not the closest planet to the Sun. And here's something cool: Venus doesn't have any moons, and its surface is so hot that it can melt lead! Let's dive into the wonders of this intriguing planet together!"
@@ -42,9 +42,9 @@
                 "Cool facts about Venus",
                 "Interesting things about Venus",
                 "Unique features of Venus",
-                "What makes Venus different?",
+                "What makes Venus different",
                 "Tell me something about Venus",
-                "Why is Venus special?",
+                "Why is Venus special",
                 "Fascinating facts about Venus",
                 "Surprising details about Venus",
                 "Venus in the solar system"
@@ -62,12 +62,12 @@
             "tag": "venusExploration",
             "patterns": [
                 "Missions to Venus",
-                "Have we explored Venus?",
+                "Have we explored Venus",
                 "Spacecrafts that visited Venus",
-                "What have we discovered about Venus?",
+                "What have we discovered about Venus",
                 "Venus space missions",
                 "Exploring Venus",
-                "Who has been to Venus?",
+                "Who has been to Venus",
                 "Venus exploration history",
                 "Discoveries from Venus missions"
             ],

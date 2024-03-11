@@ -4,7 +4,7 @@
             "tag": "solarSystemExploration",
             "patterns": [
                 "Tell me about the Sun",
-                "What is the Sun?",
+                "What is the Sun",
                 "Learn about the Sun",
                 "Sun facts",
                 "I want to know about the Sun",
@@ -18,10 +18,10 @@
         {
             "tag": "solarSystemSafety",
             "patterns": [
-                "Is it safe to go to the Sun?",
-                "How close can we get to the Sun?",
+                "Is it safe to go to the Sun",
+                "How close can we get to the Sun",
                 "Sun distance",
-                "Can we touch the Sun?",
+                "Can we touch the Sun",
                 "Sun temperature",
                 "Sun safety"
             ],
@@ -33,20 +33,20 @@
         {
             "tag": "sunImpactOnEarth",
             "patterns": [
-                "How does the Sun affect Earth?",
+                "How does the Sun affect Earth",
                 "Sun's impact on Earth",
                 "Sun and Earth's relationship",
-                "Why is the Sun important to Earth?",
+                "Why is the Sun important to Earth",
                 "Sun's role in life on Earth",
                 "Effects of the Sun on our climate",
                 "Sun's influence on weather",
                 "Importance of sunlight",
-                "How does the Sun help plants?",
+                "How does the Sun help plants",
                 "Sun's gravitational effect on Earth",
                 "Role of the Sun in ecosystems",
-                "Why do we need the Sun?",
+                "Why do we need the Sun",
                 "Sun's energy and Earth",
-                "How does the Sun maintain temperatures?",
+                "How does the Sun maintain temperatures",
                 "Sun and Earth's orbit"
             ],
             "responses": [
@@ -62,13 +62,13 @@
                 "Solar storms",
                 "What are solar phenomena",
                 "Interesting activities on the Sun",
-                "How do solar flares happen?",
-                "What causes sunspots?",
+                "How do solar flares happen",
+                "What causes sunspots",
                 "Effects of solar storms",
-                "Why does the Sun have flares?",
-                "Can we see solar phenomena?",
+                "Why does the Sun have flares",
+                "Can we see solar phenomena",
                 "Solar activity and Earth",
-                "What happens during a solar storm?",
+                "What happens during a solar storm",
                 "Explaining sunspots",
                 "Sun's magnetic field",
                 "Solar phenomena effects"
@@ -90,7 +90,7 @@
                 "Fun Sun facts",
                 "Weird facts about the Sun",
                 "Sun secrets",
-                "What's unique about the Sun?"
+                "What's unique about the Sun"
             ],
             "responses": [
                 "Did you know the Sun's surface temperature is about 5,500 degrees Celsius! That's really hot!",
@@ -109,7 +109,7 @@
                 "Explore the Sun",
                 "Studying the Sun",
                 "Solar exploration details",
-                "How do we explore the Sun?",
+                "How do we explore the Sun",
                 "Sun missions",
                 "Spacecraft to the Sun",
                 "Investigating the Sun",
