@@ -10,7 +10,7 @@
             "responses": [
                 "The Moon doesn't have an atmosphere like Earth, so there's no air to breathe. It does have gravity, but it's much weaker than Earth's, so astronauts can jump much higher there."
             ],
-            "search_terms": ["Moon Atmosphere", "Moon Gravity", "Moon Surface"]
+            "image_url": ["https://images-assets.nasa.gov/image/as11-40-5868/as11-40-5868~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutPluto",
@@ -23,7 +23,7 @@
             "responses": [
                 "Pluto was reclassified as a dwarf planet in 2006 because it doesn't meet all the criteria to be considered a full-sized planet. One main reason is that it hasn't cleared its orbit of other debris."
             ],
-            "search_terms": ["Pluto Classification", "Dwarf Planets", "Pluto Orbit Debris"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA19708/PIA19708~small.jpg"]
         },
         {
             "tag": "misconceptionAboutSpaceTravel",
@@ -34,7 +34,7 @@
             "responses": [
                 "Space travel is very different from flying in an airplane. Airplanes can't go to space because they need air to lift and propel them, which is not available in space. Spacecraft use rockets to escape Earth's gravity."
             ],
-            "search_terms": ["Spacecraft Launch", "Rockets", "Space Travel"]
+            "image_url": ["https://images-assets.nasa.gov/image/KSC-20230507-PH-RLS01_0005-reupload/KSC-20230507-PH-RLS01_0005-reupload~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutLivingInSpace",
@@ -45,7 +45,7 @@
             "responses": [
                 "Astronauts float in space because they are in a state of continuous free fall towards Earth, but they move so fast forward that they keep missing it. This creates the sensation of weightlessness, even though gravity still exists."
             ],
-            "search_terms": ["Astronauts Floating", "Microgravity", "Weightlessness"]
+            "image_url": ["https://images-assets.nasa.gov/image/iss006e50604/iss006e50604~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutBlackHoles",
@@ -57,7 +57,7 @@
             "responses": [
                 "Black holes don't roam around the universe swallowing planets. They have a strong gravitational pull near their surface, but from a distance, they don't suck things in more than a star of the same mass would."
             ],
-            "search_terms": ["Black Holes", "Black Hole Gravity", "Black Hole Mechanics"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA25440/PIA25440~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutSun",
@@ -69,7 +69,7 @@
             "responses": [
                 "The Sun is not on fire like wood burns in a fireplace. It produces light and heat through nuclear fusion, where hydrogen atoms combine to form helium, releasing a huge amount of energy."
             ],
-            "search_terms": ["Sun Fusion", "Solar Energy", "Sun Nuclear Fusion"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001661/GSFC_20171208_Archive_e001661~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutAstronauts",
@@ -80,7 +80,7 @@
             "responses": [
                 "Astronauts can't jump off the Moon and float away. The Moon's gravity, though weaker than Earth's, is enough to keep them grounded without the need for ropes."
             ],
-            "search_terms": ["Astronauts on Moon", "Moon Gravity", "Astronaut Safety"]
+            "image_url": ["https://images-assets.nasa.gov/image/as11-40-5868/as11-40-5868~medium.jpg"]
         },
         {
             "tag": "misconceptionAboutTheUniverse",
@@ -92,7 +92,7 @@
             "responses": [
                 "The observable universe has a limit to what we can see, about 93 billion light-years in diameter. Beyond that, we're not sure if the universe is infinite or not."
             ],
-            "search_terms": ["Observable Universe", "Universe Size", "Cosmology"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA13782/PIA13782~small.jpg"]
         },
         {
             "tag": "misconceptionAboutGravity",
@@ -103,7 +103,30 @@
             "responses": [
                 "There is gravity in space, which keeps planets in orbit around stars and galaxies together. Astronauts float because they are in free-fall around the Earth, creating a sensation of weightlessness."
             ],
-            "search_terms": ["Gravity in Space", "Microgravity", "Weightlessness"]
+            "image_url": ["https://images-assets.nasa.gov/image/STS064-45-014/STS064-45-014~medium.jpg"]
+        },
+        {
+            "tag": "misconceptionAboutMars",
+            "patterns": [
+                "Is there water on Mars?",
+                "Can humans live on Mars?",
+                "Is Mars habitable?"
+            ],
+            "responses": [
+                "Mars has water, but most of it is frozen in the polar ice caps. The thin atmosphere and cold temperatures make it difficult for humans to live there without special equipment."
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA07893/PIA07893~small.jpg"]
+        },
+        {
+            "tag": "misconceptionAboutMoonComposition",
+            "patterns": [
+                "Is the Moon made of cheese?",
+                "Is the Moon made of green cheese?"
+            ],
+            "responses": [
+                "The Moon is not made of cheese or green cheese. It's made of rock and dust, similar to Earth's crust, but without water and an atmosphere."
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/as11-40-5868/as11-40-5868~medium.jpg"]
         }
     ]
 }

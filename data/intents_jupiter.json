@@ -28,7 +28,7 @@
             "responses": [
                 "Let's blast off to Jupiter, the biggest planet in our solar system! It's like a giant ball of gas, mostly made up of hydrogen and helium. But the real star of the show is its famous Great Red Spot, a gigantic storm that's even bigger than our whole planet! Jupiter's also famous for its many moons, including four big ones called the Galilean moons. Did you know that a day on Jupiter is super short, only about 10 hours? And get this - its powerful magnetic field puts on an amazing light show with auroras way bigger than what we see on Earth! So, get ready for an out-of-this-world adventure to this incredible gas giant!"
             ],
-            "search_terms": ["Jupiter Overview", "Jupiter Facts", "Jupiter Description"]
+            "image_url": ["https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~medium.jpg"]
         },
         {
             "tag": "jupiterFacts",
@@ -50,7 +50,7 @@
                 "Jupiter's moon Ganymede is the largest moon in the solar system, even bigger than the planet Mercury!",
                 "Jupiter is super windy, with gusts reaching up to 400 miles per hour, much faster than the strongest hurricanes on Earth!"
             ],
-            "search_terms": ["Jupiter Fun Facts", "Jupiter Trivia", "Interesting Jupiter Facts"]
+            "image_url": ["https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~medium.jpg"]
         },
         {
             "tag": "jupiterExploration",
@@ -68,7 +68,7 @@
             "responses": [
                 "Did you know that spacecraft like Voyager and Juno have zoomed off to Jupiter to snap pictures and uncover its secrets? Right now, the Juno mission is circling around Jupiter, checking out everything from its wild weather to what's hiding beneath those swirling clouds! We've learned so much already - like Jupiter's dazzling auroras and the possibility of a hidden ocean beneath its thick clouds! Past missions have even shown us that Jupiter has its own set of rings and a bunch of moons to boot! And get this - scientists are already planning more missions to explore Jupiter's moons, hoping to find oceans and maybe even signs of alien life! It's like a cosmic treasure hunt out there in the depths of space!"
             ],
-            "search_terms": ["Jupiter Exploration", "Jupiter Missions", "Spacecraft to Jupiter"]
+            "image_url": ["https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~medium.jpg"]
         }
     ]
 }

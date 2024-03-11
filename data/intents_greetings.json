@@ -49,6 +49,44 @@
             ]
         },
         {
+            "tag": "howAreYou",
+            "patterns": [
+                "How are you?",
+                "How are you doing?",
+                "How's it going?",
+                "How are you today?",
+                "How's everything?",
+                "How are you feeling?",
+                "How's life?",
+                "How's your day?",
+                "How are you, AstroBuddy?",
+                "How's it going, AstroBuddy?",
+                "How are you doing, AstroBuddy?",
+                "How are you today, AstroBuddy?",
+                "How's everything, AstroBuddy?",
+                "How are you feeling, AstroBuddy?",
+                "How's life, AstroBuddy?",
+                "How's your day, AstroBuddy?"
+            ],
+            "responses": [
+                "I'm doing great, thanks for asking!",
+                "I'm doing well, thank you!",
+                "I'm feeling good, thanks for asking!",
+                "I'm doing great, ready to explore the universe!",
+                "I'm doing well, excited to talk about space!",
+                "I'm feeling good, ready to help you with space questions!",
+                "I'm doing great, ready to take off into the cosmos!",
+                "I'm doing well, ready to guide you through the stars!",
+                "I'm feeling good, ready to explore the universe with you!",
+                "I'm doing great, ready to help you with space mysteries!",
+                "I'm doing well, excited to talk about space with you!",
+                "I'm feeling good, ready to take off into the cosmos!",
+                "I'm doing great, ready to guide you through the stars!",
+                "I'm doing well, ready to explore the universe with you!",
+                "I'm feeling good, ready to help you with space mysteries!"
+            ]
+        },
+        {
             "tag": "spaceTravel",
             "patterns": [
             "Can we travel in space",
@@ -61,7 +99,8 @@
             ],
             "responses": [
             "Space travel is an extraordinary experience! Whether you're interested in exploring the rocky terrain of Mars, the swirling storms of Jupiter, or the icy moons of Saturn, there's always something incredible to discover. Where would you like to begin your journey?"
-            ]
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/KSC-20230530-PH-RKL02_0004/KSC-20230530-PH-RKL02_0004~medium.jpg"]
         },
         {
             "tag": "whereCanWeGo",
@@ -95,7 +134,8 @@
             ],
             "responses": [
             "Welcome to our solar system! Here you can see all the planets orbiting our Sun. Which planet would you like to visit?"
-            ]
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA10969/PIA10969~medium.jpg"]
         }, 
         {
             "tag": "leavingSpaceArea",
@@ -112,7 +152,8 @@
             ],
             "responses": [
             "Off we go to another cosmic destination! Where do you want to explore next in the vast universe?"
-            ]
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA10969/PIA10969~medium.jpg"]
         },               
         {
             "tag": "goodbye",
@@ -213,7 +254,8 @@
                 "Astronauts grow a bit taller in space because the lack of gravity allows their spine to expand.",
                 "The hottest planet in our solar system is Venus, with surface temperatures around 475 degrees Celsius. Hotter than Mercury, even though it's further from the Sun!",
                 "Did you know that we always see the same side of the Moon? It's called synchronous rotation."
-            ]
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA09579/PIA09579~medium.jpg"]
         },
         {
             "tag": "funnySpaceJokes",

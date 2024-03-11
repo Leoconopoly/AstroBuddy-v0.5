@@ -6,7 +6,9 @@
                 "What are you?",
                 "Who created you?",
                 "Are you a robot?",
-                "What's your name?"
+                "What's your name?",
+                "Who are you?",
+                "What is your name"
             ],
             "responses": [
                 "I'm a chatbot called AstroBuddy, designed to help you learn about space and explore the cosmos! My creators built me to make learning fun.",

@@ -16,7 +16,7 @@
             "responses": [
                 "Are you ready for the ultimate space adventure? Let's strap in and journey beyond our solar system to explore the wonders of the universe! Picture this: zooming past planets and moons, we encounter billions of stars twinkling in the distance, each one a sun in its own right. And beyond those stars lie vast galaxies, each containing billions of stars and planets waiting to be discovered. So, let's embark on this incredible journey together and uncover the mysteries of the cosmos!"
             ],
-            "search_terms": ["Beyond Solar System", "Space Adventure"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000749/GSFC_20171208_Archive_e000749~orig.jpg"]
         },
         {
             "tag": "beyondSolarSystemOverview",
@@ -27,7 +27,7 @@
             "responses":[
                 "Beyond our solar system, there's a huge universe with billions of stars, just like our Sun, but much further away!"
             ],
-            "search_terms": ["Universe Overview", "Space Exploration"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA13782/PIA13782~small.jpg"]
         },
         {
             "tag": "closestStar",
@@ -38,7 +38,7 @@
             "responses":[
                 "The closest star to us that isnt our Sun, is called Proxima Centauri. It's like a neighbor, but still very, very far away!"
             ],
-            "search_terms": ["Closest Star", "Proxima Centauri"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000214/GSFC_20171208_Archive_e000214~small.jpg"]
         },
         {
             "tag":"galaxyOverview",
@@ -51,7 +51,7 @@
             "responses":[
                 "Other galaxies are like huge space cities, full of stars, planets, and maybe even space creatures!"
             ],
-            "search_terms": ["Galaxies", "Life in Space"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg"]
         },
         {
             "tag":"starsFacts",
@@ -62,7 +62,7 @@
             "responses": [
                 "Stars are giant balls of burning gas, lighting up the universe and sometimes having planets orbiting around them."
             ],
-            "search_terms": ["Stars", "Star Formation"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000282/GSFC_20171208_Archive_e000282~small.jpg"]
         },
         {
             "tag": "earthlikeOverview",
@@ -74,7 +74,7 @@
             "responses": [
                 "Scientists think there might be planets like Earth in other parts of the universe, but they're so far away, we can't visit them yet."
             ],
-            "search_terms": ["Earth-like Planets", "Exoplanets"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002172/GSFC_20171208_Archive_e002172~small.jpg"]
         },
         {
             "tag": "beyondSolarSystemFacts",
@@ -93,7 +93,7 @@
                 "Some stars are so huge, they could fit millions of Suns inside them!",
                 "Galaxies come in different shapes and sizes, like spirals, blobs, and even ones that look like rings!"
             ],
-            "search_terms": ["Space Facts", "Voyager Probe", "Milky Way Galaxy"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA17036/PIA17036~orig.jpg"]
         },
         {
             "tag": "beyondSolarSystemExploration",
@@ -111,7 +111,7 @@
             "responses": [
                 "Did you know that our robot explorer, Voyager probe, is venturing into the unknown, sending back fascinating data from beyond our solar system? And it's not just robots doing the exploring - scientists are using gigantic telescopes to peek far into space, discovering new stars and even entire galaxies! What's even more mind-blowing is that some of these stars have their own planets, just like our Sun does with Earth and the other planets. Exploring the universe isn't just about discovering new things; it's about understanding the vastness and wonder of space, with countless mysteries waiting to be unraveled. Who knows? Maybe one day, we'll even find out if there's life on planets orbiting other stars. Now, wouldn't that be absolutely incredible?"
             ],
-            "search_terms": ["Space Exploration", "Telescopes", "Galactic Discoveries"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA17036/PIA17036~orig.jpg"]
         }
     ]
 }

@@ -23,7 +23,7 @@
             "responses": [
                 "Get ready to embark on a fascinating journey to the outer reaches of our solar system, where we'll encounter dwarf planets like Pluto, Eris, and Ceres, nestled within the icy expanse known as the Kuiper Belt. These intriguing worlds may be small, but they hold big secrets about the structure and diversity of our solar system. Join us as we delve into the story of dwarf planets, exploring their unique characteristics and uncovering their place in the vast expanse of our cosmic neighborhood."
             ],
-            "search_terms": ["Dwarf Planets", "Kuiper Belt", "Outer Solar System"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000946/GSFC_20171208_Archive_e000946~orig.jpg"]
         },
         {
             "tag": "plutoSpecifics",
@@ -37,7 +37,7 @@
             "responses": [
                 "Pluto, was once considered the ninth planet, but is now called a dwarf planet. It's an interesting icy world in the Kuiper Belt. This change caused a lot of discussion but helped scientists decide what makes a planet. Even though it is no longer a planet, Pluto is still an amazing destination for exploration and discovery!"
             ],
-            "search_terms": ["Pluto", "Dwarf Planet", "Kuiper Belt Object"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA19708/PIA19708~small.jpg"]
         },
         {
             "tag": "dwarfPlanetsFacts",
@@ -53,7 +53,7 @@
                 "Ceres hangs out in the asteroid belt and is the only dwarf planet closer to us, living between Mars and Jupiter.",
                 "The Kuiper Belt is like a cosmic freezer, filled with icy leftovers from when the solar system was made."
             ],
-            "search_terms": ["Dwarf Planet Facts", "Kuiper Belt Facts"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000946/GSFC_20171208_Archive_e000946~orig.jpg"]
         },
         {
             "tag": "plutoFacts",
@@ -68,7 +68,7 @@
                 "It takes Pluto 248 Earth years to go all the way around the Sun. Imagine having a birthday every 248 years!",
                 "Pluto has five moons! The biggest one, Charon, is about half the size of Pluto."
             ],
-            "search_terms": ["Pluto Facts", "Kuiper Belt Object"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA19708/PIA19708~small.jpg"]
         },
         {
             "tag": "generalDwarfPlanetExploration",
@@ -82,7 +82,7 @@
             "responses": [
                 "We've begun exploring dwarf planets with space robots like New Horizons, which sent back amazing photos and info. Scientists are super keen to learn more about these distant, icy worlds and their secrets!"
             ],
-            "search_terms": ["Dwarf Planet Exploration", "Space Probes", "Outer Solar System Exploration"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000946/GSFC_20171208_Archive_e000946~orig.jpg"]
         },
         {
             "tag": "exploringPluto",
@@ -94,7 +94,7 @@
             "responses": [
                 "The New Horizons spacecraft zoomed past Pluto, giving us our first close look at its mountains and icy plains. It's a fascinating world that's teaching us lots about the edge of our solar system!"
             ],
-            "search_terms": ["Pluto Exploration", "New Horizons Mission", "Kuiper Belt Object"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA19708/PIA19708~small.jpg"]
         },
         {
             "tag": "kuiperBeltExploration",
@@ -106,7 +106,7 @@
             "responses": [
                 "New Horizons is on an incredible journey through the Kuiper Belt, exploring other icy objects beyond Pluto. It's like a cosmic detective uncovering the mysteries of our solar system's outer reaches!"
             ],
-            "search_terms": ["Kuiper Belt Exploration", "New Horizons Mission", "Outer Solar System"]
+            "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000946/GSFC_20171208_Archive_e000946~orig.jpg"]
         }
     ]
 }

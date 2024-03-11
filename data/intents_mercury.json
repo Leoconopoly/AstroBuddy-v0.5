@@ -35,7 +35,7 @@
             "responses": [
                 "Prepare for an adventure to Mercury, the smallest planet and closest to the Sun, boasting a landscape like no other with its pockmarked surface and wild temperature swings. As we journey closer, we'll uncover a rocky world with no moons and an atmosphere so thin, it's called an exosphere, setting the stage for dramatic temperature fluctuations. Despite its petite size, Mercury is a land of extremes, with scorching hot days, bone-chilling nights, and a terrain scarred by countless craters, making it a truly mesmerizing destination. And here's a fascinating fact: a day on Mercury actually lasts longer than its year, thanks to its slow spin and speedy orbit around the Sun. So, get ready to explore this captivating world where every moment is filled with wonder and discovery!"
             ],
-            "search_terms": ["Mercury Surface", "Mercury Landscape", "Closest Planet to the Sun"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA11406/PIA11406~orig.jpg"]
         },
         {
             "tag": "mercuryFacts",
@@ -58,7 +58,7 @@
                 "On Mercury, a single day is longer than a whole year because it rotates very slowly.",
                 "Mercury is the only planet other than Earth with a global magnetic field."
             ],
-            "search_terms": ["Mercury Facts", "Red Planet Details", "Mercury Trivia"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA11406/PIA11406~orig.jpg"]
         }
         ,
         {
@@ -78,7 +78,7 @@
             "responses": [
                 "We've launched spacecraft like Messenger on thrilling missions to unravel the mysteries of Mercury and its enigmatic surface. Through these bold explorations, we've gained valuable insights into its rugged terrain, marked by countless craters, and the extreme temperatures that define its landscape. The Messenger mission, in particular, circled Mercury, beaming back invaluable data about its geology and atmosphere, shedding light on its secrets. And the adventure doesn't end there - BepiColombo, a collaborative effort between Europe and Japan, is currently en route to delve even deeper into Mercury's mysteries. These groundbreaking missions are key to deciphering Mercury's magnetic field and its incredibly tenuous atmosphere, bringing us closer to understanding this intriguing world."
             ],
-            "search_terms": ["Mercury Exploration", "Mercury Missions", "Spacecraft to Mercury"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA11406/PIA11406~orig.jpg"]
         }       
     ]
 }

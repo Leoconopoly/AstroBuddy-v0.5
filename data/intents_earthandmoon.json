@@ -28,7 +28,7 @@
             "responses": [
                 "Welcome aboard as we journey to our amazing home, Earth! Unlike any other planet, Earth is special because it's the only one we know that has life. It's covered mostly in water, which is why it looks so blue from space! Let's explore Earth's oceans, mountains, and the big Moon that makes our tides go up and down. Earth is different from the other planets because it's not named after a story character, and it's really heavy! Our trip to Earth will show us why it's so perfect for living things, with its air and water making it just right for us to thrive. So come along as we discover the incredible wonders of our home planet!"
             ],
-            "search_terms": ["Earth", "Planet Earth", "Home Planet"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA00342/PIA00342~medium.jpg"]
         },
         {
             "tag": "earthOverview",
@@ -48,7 +48,7 @@
             "responses": [
                 "Earth is our unique home in the solar system, the third planet from the Sun. It's special because it has liquid water, a breathable atmosphere, and diverse life forms. Its surface is made of continents and oceans, and it has a core, mantle, and crust. Earth's amazing variety of landscapes, climates, and life makes it unlike any other planet we know!"
             ],
-            "search_terms": ["Earth Facts", "Planet Earth", "Home Planet"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA00728/PIA00728~small.jpg"]
         },
         {
             "tag": "earthHabitability",
@@ -62,7 +62,7 @@
             "responses": [
                 "Earth looks blue from space because its surface is mostly covered in water, which reflects blue light. It supports life thanks to its perfect distance from the Sun, which allows for a suitable temperature range, along with an atmosphere that holds just the right mix of gases for breathing and water in all its forms. These unique conditions make Earth habitable and a thriving planet for countless species, including humans."
             ],
-            "search_terms": ["Earth Habitability", "Life on Earth", "Blue Planet"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg"]
         },
         {
             "tag": "moonOverview",
@@ -86,7 +86,7 @@
             "responses": [
                 "The Moon is Earth's special friend in space, and it has a big impact on our planet. It's the only place beyond Earth where humans have set foot, starting with the first visit in 1969. About 1/6th the size of Earth, the Moon sits about 384,400 km away from us. Its surface is dusty and rocky, with mountains and craters. But here's something interesting: the Moon doesn't make its own light! It shines because its surface reflects the Sun's light. The Moon changes shape in the sky because of its orbit around Earth, giving us different phases to admire. And humans have been curious about the Moon for a long time - exploration started in the 1950s, leading to that historic moment in 1969. Since then, there have been many missions to learn more about this fascinating celestial body."
             ],
-            "search_terms": ["Moon Facts", "Lunar Exploration", "Celestial Body"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA02442/PIA02442~small.jpg"]
         },
         {
             "tag": "earthsOceans",
@@ -109,7 +109,7 @@
             "responses": [
                 "Earth's oceans are amazing places, teeming with life! They cover about 70% of our planet's surface and are vital for keeping our climate in check and giving us oxygen to breathe. Did you know that oceans are homes to millions of different plants and animals, from tiny plankton to huge whales? They're not just big and deep; they're also super diverse, with coral reefs, deep sea trenches, and icy polar regions. And here's a fun fact: the ocean gets its salty taste from rocks on land that wash into it over time. So, next time you're at the beach, remember that the ocean is a vast world full of wonders waiting to be explored!"
             ],
-            "search_terms": ["Ocean Facts", "Marine Life", "Ocean Exploration"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA00123/PIA00123~small.jpg"]
         },
         {
             "tag": "dayNightCycle",
@@ -131,7 +131,7 @@
             "responses": [
                 "Have you ever wondered why we have day and night? It's because Earth likes to do a little dance called spinning! As our planet spins on its axis, the side facing the Sun has daylight, while the other side is all tucked in for night-time snoozing. It takes 24 hours for Earth to complete one spin, which gives us a whole day of sunshine and darkness. So, when your part of the world faces the Sun, it's daytime, and when it turns away, it's night-time. It's like Earth's way of giving everyone a turn to bask in the Sun's rays and then have a cozy sleep under the stars!"
             ],
-            "search_terms": ["Day and Night Cycle", "Rotation of Earth", "Sunlight and Darkness"]
+            "image_url": ["https://images-assets.nasa.gov/image/iss036e029413/iss036e029413~medium.jpg"]
         },
         {
             "tag": "lunarExploration",
@@ -154,7 +154,7 @@
             "responses": [
                 "Did you know that exploring the Moon is super exciting? It's like a whole new world out there! With mountains, flat areas called 'maria', and no atmosphere, it's unlike anything we have on Earth - no weather or sound! Humans first set foot on the Moon in 1969 during the Apollo 11 mission, and since then, there have been many more missions to explore its mysteries. They even used special rovers to zoom around and check out more of the surface. Recent missions are focused on studying the Moon's resources, like water ice hidden in shadowy craters. This could be really important for future space exploration and setting up bases on the Moon. So, who knows what other secrets the Moon is hiding?"
             ],
-            "search_terms": ["Lunar Exploration", "Moon Missions", "Moon Surface"]
+            "image_url": ["https://images-assets.nasa.gov/image/as11-40-5868/as11-40-5868~medium.jpg"]
         }     
     ]
 }

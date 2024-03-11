@@ -34,7 +34,7 @@
             "responses": [
                 "Pack your bags, because we're headed to Mars, also known as the Red Planet for its rusty hue caused by iron oxide! It's a land of extremes, boasting the tallest volcano and deepest canyon in the whole solar system. Mars offers an exciting terrain to explore, from its crimson surface to fascinating features like towering volcanoes and vast canyons. And get this - even though Mars is often compared to Earth, it's only about half the size but has just as much dry land! But don't expect a warm welcome - Mars is a chilly desert world with a thin atmosphere, where water mainly exists as ice or vapor. So, get ready for an out-of-this-world adventure to this intriguing planet!"
             ],
-            "search_terms": ["Mars Surface", "Martian Landscape", "Red Planet Exploration"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA07893/PIA07893~small.jpg"]
         },
         {
             "tag": "marsFacts",
@@ -56,7 +56,7 @@
                 "One Martian year, or the time it takes Mars to orbit the Sun, is 687 Earth days.",
                 "Mars experiences huge dust storms that can cover the entire planet and last for months."
             ],
-            "search_terms": ["Mars Facts", "Red Planet Details", "Mars Trivia"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA07893/PIA07893~small.jpg"]
         },
         {
             "tag": "marsExploration",
@@ -74,7 +74,7 @@
             "responses": [
                 "Imagine robotic explorers like the Perseverance rover, zooming across Mars to uncover its secrets, hoping to unlock its past and see if it ever could have supported life! Mars has been a hot spot for missions from Earth, with each one delving into its surface, climate, and the potential for life. Take the Curiosity rover, for example, which touched down in 2012 and has been busy analyzing Martian rocks and soil, piecing together the planet's history. Then there's the InSight lander, digging deep to study Mars' interior, helping us understand how rocky planets like ours are born. And hold onto your space helmets, because future missions aim to not only bring back samples from Mars but also dream of sending humans to explore this mysterious world!"
             ],
-            "search_terms": ["Mars Exploration", "Mars Missions", "Rovers on Mars"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA07893/PIA07893~small.jpg"]
         }        
     ]
 }

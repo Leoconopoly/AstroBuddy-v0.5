@@ -34,7 +34,7 @@
             "responses": [
                 "Come along on an amazing adventure to Venus, often called Earth's twin, but with its own fascinating secrets! As we journey to this mysterious planet, get ready to learn about its unique spin - it goes in the opposite direction to most planets! Venus is special because it has a thick atmosphere made mostly of carbon dioxide, and its clouds are filled with sulfuric acid. While exploring Venus, we'll find out why it's so hot, even though it's not the closest planet to the Sun. And here's something cool: Venus doesn't have any moons, and its surface is so hot that it can melt lead! Let's dive into the wonders of this intriguing planet together!"
             ],
-            "search_terms": ["Venus", "Second Planet", "Venus Exploration"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg"]
         },
         {
             "tag": "venusFacts",
@@ -56,7 +56,7 @@
                 "A day on Venus is longer than a year! It takes about 243 Earth days to rotate once, but only 225 days to orbit the Sun.",
                 "The atmosphere of Venus is so thick that if you stood on its surface, you would feel as if you were a mile deep in the ocean."   
             ],
-            "search_terms": ["Venus", "Venus Facts", "Second Planet"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg"]
         },
         {
             "tag": "venusExploration",
@@ -74,7 +74,7 @@
             "responses": [
                 "Did you know that many spacecraft have explored Venus? For instance, NASA's Magellan orbiter made detailed maps of Venus's surface. Way back, the Soviet Union sent the first spacecraft to land on Venus, called the Venera missions. Despite Venus's tough conditions, they provided crucial information. Recent missions have also been busy studying Venus, helping us understand its scorching atmosphere and why it's unlike Earth. Even the European Space Agency's Venus Express orbiter took a close look at Venus's atmosphere and weather patterns!"
             ],
-            "search_terms": ["Venus Exploration", "Space Missions", "Venus Missions"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01544/PIA01544~orig.jpg"]
         }
     ]
 }

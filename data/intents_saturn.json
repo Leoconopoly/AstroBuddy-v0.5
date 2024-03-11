@@ -26,7 +26,7 @@
             "responses": [
                 "Embark on an unforgettable journey to Saturn, the gas giant renowned for its breathtaking rings that dazzle with their icy elegance. Did you know Saturn boasts a celestial entourage of over 80 moons, while its magnificent rings stretch so wide that they could accommodate six Earths lined up in a row? Composed mainly of hydrogen and helium, Saturn is so lightweight that it could theoretically float in a colossal cosmic bathtub! A voyage to Saturn promises a glimpse into a realm of unparalleled beauty, where its iconic rings and myriad moons await exploration, inviting us to marvel at the wonders of the cosmos."
             ],
-            "search_terms": ["Saturn", "Saturn Rings", "Saturn Moons"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01383/PIA01383~medium.jpg"]
         },
         {
             "tag": "saturnFacts",
@@ -47,7 +47,7 @@
                 "Saturn's rings are not solid; they're made up of millions of ice chunks, some as small as grains of sand and some as big as mountains.",
                 "The wind on Saturn can blow super fast, up to 1,100 miles per hour - that's way faster than the fastest cars!"
             ],
-            "search_terms": ["Saturn Facts", "Saturn Rings", "Saturn Moons"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01383/PIA01383~medium.jpg"]
         },
         {
             "tag": "saturnExploration",
@@ -64,7 +64,7 @@
             "responses": [
                 "Imagine spacecraft like Cassini embarking on epic journeys to Saturn, capturing stunning photos and gathering a treasure trove of information about the planet and its captivating moons. Cassini, our intrepid robotic explorer, even touched down a probe on Titan, Saturn's largest moon, unveiling the secrets of its enigmatic surface. Scientists are eagerly delving into Saturn's moon mysteries, hopeful that these celestial bodies might offer insights into the vast expanse of space and perhaps even clues about extraterrestrial life! Meanwhile, robots tirelessly orbit Saturn, scrutinizing its majestic rings, probing their age and origin. And the adventure continues with the promise of future space missions, poised to return to Saturn's embrace, driven by the quest for deeper understanding, especially of its elusive moons."
             ],
-            "search_terms": ["Saturn Exploration", "Saturn Missions", "Cassini Mission"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA01383/PIA01383~medium.jpg"]
         }
     ]
 }

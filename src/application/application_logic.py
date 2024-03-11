@@ -23,7 +23,7 @@ class ChatApplication(QWidget):
         self.insertAstroBuddyGreeting()
 
     def initUI(self):
-        self.setWindowTitle("AstroBuddy - Chat (v0.4)")
+        self.setWindowTitle("AstroBuddy - Chat (v0.5)")
         
         # Load the Open Dyslexic font
         dyslexic_font_family = add_font()

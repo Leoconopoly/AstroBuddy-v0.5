@@ -56,7 +56,7 @@ def clear_data_from_db(db_path):
     cursor.execute("DELETE FROM Responses")
     cursor.execute("DELETE FROM Patterns")
     cursor.execute("DELETE FROM Intents")
-    cursor.execute("DELETE FROM SearchTerms")  # Clear search terms table
+    cursor.execute("DELETE FROM ImageURL")  # Clear ImageURL table
 
     conn.commit()
     conn.close()
@@ -97,10 +97,10 @@ def create_db_schema(db_path):
     """)
 
     cursor.execute("""
-    CREATE TABLE IF NOT EXISTS SearchTerms (
-        TermID INTEGER PRIMARY KEY AUTOINCREMENT,
+    CREATE TABLE IF NOT EXISTS ImageURL (
+        ImageID INTEGER PRIMARY KEY AUTOINCREMENT,
         IntentID INTEGER NOT NULL,
-        SearchTerm TEXT NOT NULL,
+        ImageURL TEXT,
         FOREIGN KEY (IntentID) REFERENCES Intents(IntentID)
     )
     """)
@@ -125,34 +125,28 @@ def insert_data_to_db(data, db_path):
     for intent in data['intents']:
         try:
             cursor.execute("INSERT INTO Intents (Tag) VALUES (?)", (intent['tag'],))
-            conn.commit()  # Commit after each insert to ensure changes are saved
+            conn.commit()  
         except sqlite3.IntegrityError:
             print(f"Duplicate tag found: {intent['tag']}")
-            continue  # Skip this intent to avoid stopping the script
+            continue  
 
         intent_id = cursor.lastrowid
 
-        # Check if the intent has search terms
-        if 'search_terms' in intent:
-            for search_term in intent['search_terms']:
-                cursor.execute("INSERT INTO SearchTerms (IntentID, SearchTerm) VALUES (?, ?)", (intent_id, search_term))
-        else:
-            # Insert a placeholder search term
-            cursor.execute("INSERT INTO SearchTerms (IntentID, SearchTerm) VALUES (?, ?)", (intent_id, "REVIEW ME"))
-        
         for pattern in intent['patterns']:
             cursor.execute("INSERT INTO Patterns (IntentID, Pattern) VALUES (?, ?)", (intent_id, pattern))
             pattern_id = cursor.lastrowid # Capture the PatternID here
             
             for response in intent['responses']:
                 cursor.execute("INSERT INTO Responses (PatternID, Response) VALUES (?, ?)", (pattern_id, response))
+                response_id = cursor.lastrowid  # Capture the ResponseID here
+
+        # Check if image_url is present in the intent
+        if 'image_url' in intent:
+            image_url = intent['image_url'][0]
+            cursor.execute("INSERT INTO ImageURL (IntentID, ImageURL) VALUES (?, ?)", (intent_id, image_url))
     
     conn.commit()
     conn.close()
-
-
-
-
 
 if __name__ == "__main__":
     # Paths to JSON files
