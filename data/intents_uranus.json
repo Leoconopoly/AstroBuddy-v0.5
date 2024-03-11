@@ -1,0 +1,72 @@
+{
+    "intents": [
+        {
+            "tag": "uranusOverview",
+            "patterns": [
+                "Can we go to Uranus?",
+                "I want to see Uranus",
+                "Trip to Uranus",
+                "Visit Uranus with me",
+                "What's Uranus like?",
+                "Flying to Uranus",
+                "Space journey to Uranus",
+                "Explore Uranus",
+                "Show me Uranus",
+                "Uranus adventure",
+                "Tell me about Uranus",
+                "Facts about Uranus for kids",
+                "Why does Uranus spin sideways?",
+                "What color is Uranus?",
+                "Cool stuff about Uranus",
+                "Is Uranus a gas planet?",
+                "What's special about Uranus?",
+                "Describe Uranus",
+                "Uranus features"
+            ],
+            "responses": [
+                "Embark on a fascinating journey to Uranus, a distinctive ice giant renowned for its unique sideways spin and mesmerizing blue-green hue, attributed to the presence of methane in its atmosphere. This distant world, nestled far from the warmth of the Sun, boasts an icy demeanor veiled in cold, blue-green clouds, concealing a core adorned with water, ammonia, and methane ices. Uranus' intriguing features include its delicate, thin rings and its distinction as one of the coldest planets in our solar system, rendering it a captivating subject for exploration. Prepare to delve into Uranus' enigmatic orbit, its icy composition, and the allure of its resplendent blue shades as we embark on this thrilling voyage of discovery."
+            ],
+            "search_terms": ["Uranus", "Ice Giant", "Uranus Exploration"]
+        },
+        {
+            "tag": "uranusFacts",
+            "patterns": [
+                "Interesting facts about Uranus",
+                "Tell me something about Uranus",
+                "Uranus trivia",
+                "Weird things about Uranus",
+                "Amazing Uranus facts",
+                "What's unique about Uranus?",
+                "Uranus secrets",
+                "Fun Uranus information",
+                "Learn about Uranus"
+            ],
+            "responses": [
+                "One year on Uranus is really long, about 84 Earth years, because it's so far from the Sun!",
+                "Uranus has 27 known moons, and they're named after characters from the works of William Shakespeare and Alexander Pope.",
+                "It's the coldest planetary atmosphere in the solar system, with temperatures dropping to minus 224 degrees Celsius!",
+                "Uranus was the first planet found with a telescope. Before that, people thought there were only six planets!",
+                "It has an unusual magnetic field that's tilted and doesn't go straight through the middle of the planet."                
+            ],
+            "search_terms": ["Uranus", "Uranus Facts", "Ice Giant"]
+        },
+        {
+            "tag": "uranusExploration",
+            "patterns": [
+                "Space missions to Uranus",
+                "Exploring Uranus",
+                "Who has visited Uranus?",
+                "What have we found out about Uranus?",
+                "Uranus space robots",
+                "Learning about Uranus",
+                "Uranus discoveries",
+                "Uranus in space",
+                "Study of Uranus"
+            ],
+            "responses": [
+                "Did you know that the Voyager 2 spacecraft embarked on a remarkable journey past Uranus, capturing breathtaking images and conducting invaluable measurements? During its daring flyby, Voyager 2 made astonishing discoveries, uncovering 10 previously unknown moons and unveiling two new rings encircling Uranus! Thanks to Voyager 2, we've gained insights into Uranus' peculiar magnetic field and its tumultuous winds, shedding light on the mysteries of this distant ice giant. With a thirst for further knowledge, scientists are eager to launch additional missions to Uranus, aiming to unravel the secrets of its unconventional tilt and its frigid, icy atmosphere. And the adventure continues, with future space missions poised to explore Uranus' intriguing moons and delve deeper into the mysteries shrouding its cloudy skies!" 
+            ],
+            "search_terms": ["Uranus Exploration", "Space Missions", "Voyager 2"]
+        }
+    ]
+}

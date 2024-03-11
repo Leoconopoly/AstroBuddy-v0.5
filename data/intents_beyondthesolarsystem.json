@@ -1,0 +1,117 @@
+{
+    "intents":[
+        {
+            "tag": "beyondSolarSystemTravel",
+            "patterns": [
+                "Can we travel beyond the solar system?",
+                "Let's go past the solar system",
+                "What's outside our solar system?",
+                "Journey beyond the stars",
+                "Explore outside the solar system",
+                "Show me what's beyond our solar system",
+                "Space adventure to the stars",
+                "Discovering what's beyond our solar system",
+                "Flying past the solar system"
+            ],
+            "responses": [
+                "Are you ready for the ultimate space adventure? Let's strap in and journey beyond our solar system to explore the wonders of the universe! Picture this: zooming past planets and moons, we encounter billions of stars twinkling in the distance, each one a sun in its own right. And beyond those stars lie vast galaxies, each containing billions of stars and planets waiting to be discovered. So, let's embark on this incredible journey together and uncover the mysteries of the cosmos!"
+            ],
+            "search_terms": ["Beyond Solar System", "Space Adventure"]
+        },
+        {
+            "tag": "beyondSolarSystemOverview",
+            "patterns": [
+                "Tell me what's beyond the solar system",
+                "Describe the universe"
+            ],
+            "responses":[
+                "Beyond our solar system, there's a huge universe with billions of stars, just like our Sun, but much further away!"
+            ],
+            "search_terms": ["Universe Overview", "Space Exploration"]
+        },
+        {
+            "tag": "closestStar",
+            "patterns":[       
+                "What's the closest star to us?",
+                "What is our closest star"
+            ],
+            "responses":[
+                "The closest star to us that isnt our Sun, is called Proxima Centauri. It's like a neighbor, but still very, very far away!"
+            ],
+            "search_terms": ["Closest Star", "Proxima Centauri"]
+        },
+        {
+            "tag":"galaxyOverview",
+            "patterns":[                
+                "Cool things beyond our solar system",
+                "Is there life outside our solar system?",
+                "What's special about other galaxies?",
+                "What's unique about galaxies?"
+            ],
+            "responses":[
+                "Other galaxies are like huge space cities, full of stars, planets, and maybe even space creatures!"
+            ],
+            "search_terms": ["Galaxies", "Life in Space"]
+        },
+        {
+            "tag":"starsFacts",
+            "patterns":[
+                "What are stars?",
+                "Amazing things about stars"
+            ],
+            "responses": [
+                "Stars are giant balls of burning gas, lighting up the universe and sometimes having planets orbiting around them."
+            ],
+            "search_terms": ["Stars", "Star Formation"]
+        },
+        {
+            "tag": "earthlikeOverview",
+            "patterns": [
+                "Are there other planets like Earth?",
+                "Have we found other planets like Earth?",
+                "Can we go to other planets like Earth?"
+            ],
+            "responses": [
+                "Scientists think there might be planets like Earth in other parts of the universe, but they're so far away, we can't visit them yet."
+            ],
+            "search_terms": ["Earth-like Planets", "Exoplanets"]
+        },
+        {
+            "tag": "beyondSolarSystemFacts",
+            "patterns": [
+                "Interesting facts about space",
+                "Tell me something about the universe",
+                "Space trivia",
+                "Secrets of the universe",
+                "Fun information about space",
+                "Learn about the universe"
+            ],
+            "responses": [
+                "Did you know that the Voyager probe is the farthest man-made object from Earth, traveling beyond our solar system?",
+                "There are more stars in the universe than grains of sand on all the beaches on Earth - that's a lot of stars!",
+                "The Milky Way is the galaxy we live in, it's like a giant space whirlpool with billions of stars, including our Sun!",
+                "Some stars are so huge, they could fit millions of Suns inside them!",
+                "Galaxies come in different shapes and sizes, like spirals, blobs, and even ones that look like rings!"
+            ],
+            "search_terms": ["Space Facts", "Voyager Probe", "Milky Way Galaxy"]
+        },
+        {
+            "tag": "beyondSolarSystemExploration",
+            "patterns": [
+                "Exploring the universe",
+                "Space missions beyond the solar system",
+                "What have we discovered about space?",
+                "Learning about other galaxies",
+                "Space discoveries",
+                "Study of the universe",
+                "Voyager probe's journey",
+                "What's out there in space?",
+                "Universe exploration"
+            ],
+            "responses": [
+                "Did you know that our robot explorer, Voyager probe, is venturing into the unknown, sending back fascinating data from beyond our solar system? And it's not just robots doing the exploring - scientists are using gigantic telescopes to peek far into space, discovering new stars and even entire galaxies! What's even more mind-blowing is that some of these stars have their own planets, just like our Sun does with Earth and the other planets. Exploring the universe isn't just about discovering new things; it's about understanding the vastness and wonder of space, with countless mysteries waiting to be unraveled. Who knows? Maybe one day, we'll even find out if there's life on planets orbiting other stars. Now, wouldn't that be absolutely incredible?"
+            ],
+            "search_terms": ["Space Exploration", "Telescopes", "Galactic Discoveries"]
+        }
+    ]
+}

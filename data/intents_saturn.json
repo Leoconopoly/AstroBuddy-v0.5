@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "tag": "saturnOverview",
+            "patterns": [
+                "Can we take a trip to Saturn?",
+                "I want to see Saturn",
+                "Let's fly to Saturn",
+                "Show me Saturn",
+                "Going to Saturn",
+                "What's it like on Saturn?",
+                "Space journey to Saturn",
+                "Visit Saturn with me",
+                "Can we explore Saturn?",
+                "Saturn adventure time",
+                "Tell me about Saturn",
+                "What is Saturn like?",
+                "I want to know about Saturn",
+                "Saturn facts, please",
+                "Why does Saturn have rings?",
+                "Is Saturn big?",
+                "What are Saturn's rings made of?",
+                "Cool stuff about Saturn",
+                "Why is Saturn special?"
+            ],
+            "responses": [
+                "Embark on an unforgettable journey to Saturn, the gas giant renowned for its breathtaking rings that dazzle with their icy elegance. Did you know Saturn boasts a celestial entourage of over 80 moons, while its magnificent rings stretch so wide that they could accommodate six Earths lined up in a row? Composed mainly of hydrogen and helium, Saturn is so lightweight that it could theoretically float in a colossal cosmic bathtub! A voyage to Saturn promises a glimpse into a realm of unparalleled beauty, where its iconic rings and myriad moons await exploration, inviting us to marvel at the wonders of the cosmos."
+            ],
+            "search_terms": ["Saturn", "Saturn Rings", "Saturn Moons"]
+        },
+        {
+            "tag": "saturnFacts",
+            "patterns": [
+                "Fun facts about Saturn",
+                "Tell me something cool about Saturn",
+                "Saturn for kids",
+                "Amazing Saturn facts",
+                "What's unique about Saturn?",
+                "Saturn's secrets",
+                "Mysteries of Saturn",
+                "Cool Saturn trivia"
+            ],
+            "responses": [
+                "Saturn spins really fast; a day there is only about 10 and a half hours!",
+                "Some of Saturn's moons might have oceans under their icy surfaces, maybe even with alien fish!",
+                "One of Saturn's moons, Titan, is super special because it has lakes and rivers, but not of water – of liquid methane!",
+                "Saturn's rings are not solid; they're made up of millions of ice chunks, some as small as grains of sand and some as big as mountains.",
+                "The wind on Saturn can blow super fast, up to 1,100 miles per hour - that's way faster than the fastest cars!"
+            ],
+            "search_terms": ["Saturn Facts", "Saturn Rings", "Saturn Moons"]
+        },
+        {
+            "tag": "saturnExploration",
+            "patterns": [
+                "Have we visited Saturn?",
+                "Who explores Saturn?",
+                "Space robots at Saturn",
+                "Saturn missions",
+                "Learning about Saturn",
+                "Saturn's secrets from space",
+                "Saturn's moons exploration",
+                "What's new about Saturn?"
+            ],
+            "responses": [
+                "Imagine spacecraft like Cassini embarking on epic journeys to Saturn, capturing stunning photos and gathering a treasure trove of information about the planet and its captivating moons. Cassini, our intrepid robotic explorer, even touched down a probe on Titan, Saturn's largest moon, unveiling the secrets of its enigmatic surface. Scientists are eagerly delving into Saturn's moon mysteries, hopeful that these celestial bodies might offer insights into the vast expanse of space and perhaps even clues about extraterrestrial life! Meanwhile, robots tirelessly orbit Saturn, scrutinizing its majestic rings, probing their age and origin. And the adventure continues with the promise of future space missions, poised to return to Saturn's embrace, driven by the quest for deeper understanding, especially of its elusive moons."
+            ],
+            "search_terms": ["Saturn Exploration", "Saturn Missions", "Cassini Mission"]
+        }
+    ]
+}

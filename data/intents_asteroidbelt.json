@@ -1,0 +1,80 @@
+{
+    "intents": [
+        {
+            "tag": "asteroidBeltOverview",
+            "patterns": [
+                "Can we go see the asteroid belt?",
+                "Trip to the asteroid belt",
+                "I want to explore the asteroid belt",
+                "What's in the asteroid belt?",
+                "Fly through the asteroid belt with me",
+                "Show me the asteroid belt",
+                "Asteroid belt adventure",
+                "Space journey to the asteroid belt",
+                "Visit the asteroid belt",
+                "Take me to the asteroid belt",
+                "What's the asteroid belt?",
+                "Tell me about the asteroid belt",
+                "Why is the asteroid belt important?",
+                "Cool facts about the asteroid belt",
+                "Is the asteroid belt like a planet?",
+                "Where is the asteroid belt?",
+                "What makes the asteroid belt special?",
+                "Describe the asteroid belt",
+                "What are asteroids?"
+            ],
+            "responses": [
+                "The asteroid belt is a huge circle of rocks floating in space between Mars and Jupiter, like a cosmic belt full of treasures! Imagine millions of space rocks, from tiny pebbles to big ones like Ceres, which is so huge it's called a dwarf planet. These rocks are leftovers from when the solar system was formed, over 4 billion years ago. It's not crowded, though; they're spread out with lots of space in between. Isn't it exciting to think about what mysteries they might hold?"
+            ],
+            "search_terms": ["Asteroid"]
+        },
+        {
+            "tag": "asteroidbeltFacts",
+            "patterns": [
+                "Tell me a fun fact about the asteroid belt",
+                "Interesting stuff about the asteroid belt",
+                "Weird things in the asteroid belt",
+                "Amazing asteroid belt facts",
+                "What's cool about the asteroid belt?",
+                "Asteroid belt secrets",
+                "Things to know about the asteroid belt",
+                "Cool asteroid belt trivia",
+                "Space rocks facts"
+            ],
+            "responses": [
+                "Asteroids are like cosmic loners, hanging out in space with lots of room to spare between them! Some even have funny shapes, like dog bones - imagine that! The biggest asteroid, Ceres, is so massive that it's considered a dwarf planet. Talk about being a big deal in space! These rocky relics are like time travelers, some even older than the solar system itself! And get this - some asteroids have their very own tiny moons circling around them, like little buddies in space. But sometimes, these asteroids can go rogue, thanks to Jupiter's strong pull, and come dangerously close to Earth. That's when they become near-Earth objects, giving scientists a chance to learn more about our cosmic past while keeping an eye on our cosmic present."
+            ],
+            "search_terms": ["Asteroid Belt"]
+        },
+        {
+            "tag": "asteroidbeltExploration",
+            "patterns": [
+                "Have we explored the asteroid belt?",
+                "Who studies the asteroid belt?",
+                "Space missions to the asteroid belt",
+                "Robots in the asteroid belt",
+                "Learning about asteroids",
+                "Space explorers in the asteroid belt",
+                "Asteroid belt research"
+            ],
+            "responses": [
+                "Spacecraft like Dawn have zoomed off to the asteroid belt to snap pictures and study asteroids. These space robots help scientists uncover secrets about how our solar system came to be."
+            ],
+            "search_terms": ["Asteroid Belt", "Spacecraft"]
+        },
+        {
+            "tag": "asteroidbeltComposition",
+            "patterns": [
+                "What have we found in the asteroid belt?",
+                "What are asteroids made of?",
+                "What's inside the asteroid belt?",
+                "What's the asteroid belt made of?",
+                "Discoveries in the asteroid belt"
+            ],
+            "responses": [
+                "Asteroids are super interesting space rocks made of metal, rock, and sometimes ice. Scientists have even found hints of water and precious metals like gold on some asteroids! Each asteroid tells a story about our solar system's early days."
+            ],
+            "search_terms": ["Asteroid"]
+        }
+    ]
+}

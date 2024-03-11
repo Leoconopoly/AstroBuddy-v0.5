@@ -1,0 +1,72 @@
+{
+    "intents": [
+        {
+            "tag": "neptuneOverview",
+            "patterns": [
+                "Can we go to Neptune?",
+                "Trip to Neptune",
+                "Let's visit Neptune",
+                "What's Neptune like?",
+                "Space journey to Neptune",
+                "I want to see Neptune",
+                "Fly to Neptune with me",
+                "Explore Neptune",
+                "Show me Neptune",
+                "Neptune adventure",
+                "Tell me about Neptune",
+                "Facts about Neptune for kids",
+                "What color is Neptune?",
+                "Cool things about Neptune",
+                "Is Neptune a gas giant?",
+                "What's special about Neptune?",
+                "Describe Neptune",
+                "Neptune features",
+                "Why is Neptune blue?"
+            ],
+            "responses": [
+                "Prepare for an extraordinary journey to Neptune, the farthest planet from the Sun, cloaked in its mesmerizing deep blue hue, courtesy of methane swirling in its atmosphere. As we venture closer, we'll encounter a world of unparalleled extremes, with ferocious winds racing at unimaginable speeds and temperatures plunging to bone-chilling lows. This distant ice giant is shrouded in layers of water, ammonia, and methane ices, creating a frigid and turbulent environment unlike any other. Neptune's captivating blue color, adorned with mysterious dark spots and adorned with delicate rings and a host of moons, including the intriguing Triton, adds to its enigmatic charm, promising a voyage filled with wonder and discovery."
+            ],
+            "search_terms": ["Neptune", "Neptune Planet", "Neptune Space Exploration"]
+        },
+        {
+            "tag": "neptuneFacts",
+            "patterns": [
+                "Interesting facts about Neptune",
+                "Tell me something about Neptune",
+                "Weird things about Neptune",
+                "Amazing Neptune facts",
+                "What's unique about Neptune?",
+                "Neptune secrets",
+                "Fun Neptune information",
+                "Neptune trivia for kids",
+                "Learn about Neptune"
+            ],
+            "responses": [
+                "Did you know that one year on Neptune is about 165 Earth years because it's so far from the Sun?",
+                "Neptune was the first planet located through mathematical predictions rather than through a telescope!",
+                "It has a storm similar to Jupiter's Great Red Spot, but Neptune's is called the Great Dark Spot.",
+                "Neptune's moon Triton is the only large moon in the solar system that orbits in the opposite direction of its planet's rotation!",
+                "Even though Neptune is smaller than Uranus, it's more massive and has a stronger gravitational pull."
+            ],
+            "search_terms": ["Neptune Facts", "Neptune Secrets", "Neptune Moons"]
+        },
+        {
+            "tag": "neptuneExploration",
+            "patterns": [
+                "Space missions to Neptune",
+                "Who has visited Neptune?",
+                "Exploring Neptune",
+                "What have we found out about Neptune?",
+                "Neptune space robots",
+                "Learning about Neptune",
+                "Neptune discoveries",
+                "Study of Neptune",
+                "Neptune in space"
+            ],
+            "responses": [
+                "Did you know that the Voyager 2 spacecraft made an incredible journey past Neptune, treating us to breathtaking close-up images of this distant giant? During its daring flyby, Voyager 2 made some astounding discoveries, unveiling five previously unknown moons and revealing the presence of four rings encircling Neptune's enigmatic atmosphere! Thanks to Voyager 2, we've gained invaluable insights into Neptune's atmospheric dynamics, including its turbulent winds, helping us piece together the puzzle of this icy world. And the adventure doesn't stop there - scientists are eagerly planning future missions to Neptune, with hopes of delving deeper into its icy atmosphere and unraveling the mysteries of its captivating moons. Who knows what secrets await us as we embark on these thrilling journeys to explore Neptune's icy moons and unlock the secrets of its mysterious ring system!"
+            ],
+            "search_terms": ["Neptune Exploration", "Neptune Voyager 2", "Neptune Missions"]
+        }
+    ]
+}

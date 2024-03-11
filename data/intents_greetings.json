@@ -1,0 +1,245 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Hello",
+                "How are you",
+                "Is anyone there?",
+                "Good day",
+                "Hello there",
+                "Hiya",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "Hey there",
+                "Hi friend",
+                "Yo",
+                "Hey buddy",
+                "What's up",
+                "Greetings",
+                "Salutations",
+                "Howdy",
+                "Hey AstroBuddy",
+                "Hi AstroBuddy",
+                "Hello AstroBuddy",
+                "Hiya AstroBuddy",
+                "Are you there, AstroBuddy?"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Hello, thanks for chatting with me",
+                "Hi there, what can we explore in space together today?",
+                "Hi there, how can I help you?",
+                "Hi, I'm AstroBuddy, your guide to the stars, what shall we explore today?",
+                "Hello young explorer! Ready for a space adventure?",
+                "Hiya! AstroBuddy here, your space guide. Let's learn something new!",
+                "Good day, space traveler! What are we discovering today?",
+                "Hey there! AstroBuddy at your service. Let's talk about the stars!",
+                "Greetings! AstroBuddy ready for a cosmic journey. Where to first?",
+                "Hi friend! Let's explore the universe together.",
+                "Yo! Ready to zoom through space?",
+                "Hey buddy, it's AstroBuddy! Excited to explore the cosmos with you.",
+                "What's up, young astronaut? Ready to learn about space?",
+                "Salutations from AstroBuddy, your galactic guide!",
+                "Howdy! Ready to take off into the vast universe?",
+                "Hi there! Do you have any space questions for me today?"
+            ]
+        },
+        {
+            "tag": "spaceTravel",
+            "patterns": [
+            "Can we travel in space",
+            "Tell me about traveling to a planet",
+            "What's it like to travel in space",
+            "How do we travel to other planets",
+            "Space travel destinations",
+            "Explore the solar system",
+            "Take me on a space journey"
+            ],
+            "responses": [
+            "Space travel is an extraordinary experience! Whether you're interested in exploring the rocky terrain of Mars, the swirling storms of Jupiter, or the icy moons of Saturn, there's always something incredible to discover. Where would you like to begin your journey?"
+            ]
+        },
+        {
+            "tag": "whereCanWeGo",
+            "patterns": [
+            "Start tour",
+            "Show me the solar system",
+            "I want to see the solar system",
+            "Begin solar system tour",
+            "Let's explore the solar system",
+            "Can I see the solar system?",
+            "Take me on a space tour",
+            "Show me space",
+            "I want to explore space",
+            "Start space journey",
+            "Lets go",
+            "Where can I go",
+            "What is there to explore?",
+            "What is out there?",
+            "Show me places to visit in space",
+            "Space destinations",
+            "Where can we explore?",
+            "Options for space travel",
+            "Cosmic locations to visit",
+            "Can you suggest space places?",
+            "What's interesting in space?",
+            "Guided space tour options",
+            "Space exploration choices",
+            "Different planets to visit",
+            "Interesting celestial bodies",
+            "What are some space wonders?"
+            ],
+            "responses": [
+            "Welcome to our solar system! Here you can see all the planets orbiting our Sun. Which planet would you like to visit?"
+            ]
+        }, 
+        {
+            "tag": "leavingSpaceArea",
+            "patterns": [
+            "Let's go somewhere else",
+            "What's next to explore?",
+            "Can we see another place in space?",
+            "Where to after this?",
+            "Done here, where next?",
+            "Goodbye, where are we off to now?",
+            "Next space adventure?",
+            "Finished here, what's our next stop?",
+            "Time to move on, where to?"
+            ],
+            "responses": [
+            "Off we go to another cosmic destination! Where do you want to explore next in the vast universe?"
+            ]
+        },               
+        {
+            "tag": "goodbye",
+            "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "I have to go",
+            "Time to go",
+            "See ya",
+            "Goodnight",
+            "I'm off",
+            "Farewell",
+            "Catch you later",
+            "Bye bye",
+            "Got to go",
+            "Leaving now",
+            "Bye AstroBuddy",
+            "End of chat",
+            "That's all for today",
+            "Until next time",
+            "I'm signing off",
+            "Time to say goodbye",
+            "Adios"
+            ],
+            "responses": [
+            "See you later, thanks for visiting"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thanks a lot!",
+                "Appreciate it",
+                "That was helpful",
+                "Grateful",
+                "Much appreciated",
+                "Thank you so much",
+                "Thanks for the help",
+                "You're a big help",
+                "Thanks AstroBuddy",
+                "Cheers",
+                "That's great, thanks",
+                "I appreciate your help",
+                "Thankful for your help",
+                "You've been helpful"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "You're welcome! Always here to help you with space mysteries.",
+                "Glad I could assist! Ask me anything about space anytime.",
+                "Always happy to help a young space explorer!",
+                "You're very welcome! Let's keep learning about the universe.",
+                "My joy to assist! There's so much more to explore.",
+                "I'm here whenever you have more space questions!",
+                "You're welcome! Remember, the universe is full of wonders.",
+                "Always here to help you navigate the cosmos!",
+                "Your curiosity is what makes this journey exciting. You're welcome!",
+                "It's great to be helpful. Let me know if you have more questions!",
+                "I'm glad I could be of assistance. Keep exploring!"
+            ]
+        },
+        {
+            "tag": "funfacts",
+            "patterns": [
+                "Tell me a space fact",
+                "Give me a fun fact",
+                "Fun fact about space",
+                "Something interesting about space",
+                "Space trivia",
+                "Tell me something cool about space",
+                "AstroBuddy, any fun facts?",
+                "I want to hear a space fact",
+                "Cool space facts",
+                "Interesting facts about the universe",
+                "Fact",
+                "Tell me a fact",
+                "Tell me a fun space fact"
+            ],
+            "responses": [
+                "Did you know that a year on Mercury is just 88 days long?",
+                "Here's a cool fact: Venus is the hottest planet in our solar system!",
+                "Mars is home to the tallest mountain in our solar system, Olympus Mons, which is nearly three times the height of Mount Everest!",
+                "Jupiter has the shortest day of all the planets. It turns on its axis once every 9 hours and 55 minutes!",
+                "The rings of Saturn are made up of chunks of ice and rock. Some are as small as grains of sand, while others are as big as houses!",
+                "Uranus rotates on its side, which means it has very unusual seasons. Each season lasts for 21 years!",
+                "Neptune is so far from the Sun that it takes 165 Earth years to orbit it once.",
+                "Did you know that the Milky Way galaxy we live in is 100,000 light-years wide? That's incredibly huge!",
+                "Astronauts in space cannot cry properly, because there is no gravity, so their tears can't flow down their faces!",
+                "Did you know that there are more stars in the universe than grains of sand on all the beaches on Earth?",
+                "The footprints on the Moon will be there for 100 million years. There is no atmosphere on the Moon, which means there's no wind to blow them away.",
+                "One day on Venus is longer than one year. It takes Venus 243 Earth days to spin once on its axis, which is super slow!",
+                "Astronauts grow a bit taller in space because the lack of gravity allows their spine to expand.",
+                "The hottest planet in our solar system is Venus, with surface temperatures around 475 degrees Celsius. Hotter than Mercury, even though it's further from the Sun!",
+                "Did you know that we always see the same side of the Moon? It's called synchronous rotation."
+            ]
+        },
+        {
+            "tag": "funnySpaceJokes",
+            "patterns": [
+                "Can you tell me a joke",
+                "Can you tell me a space joke",
+                "Tell me a funny space fact",
+                "I want to hear a space joke",
+                "Make me laugh with a space joke",
+                "Do you know any good space jokes?",
+                "Space joke please",
+                "Something funny about space",
+                "Give me a space joke",
+                "Joke time",
+                "Tell me something funny",
+                "Can you make me laugh"
+            ],
+            "responses": [
+                "Why did the sun go to school? To get brighter!",
+                "What kind of music do planets sing? Neptunes!",
+                "Why did the astronaut break up with his girlfriend? He needed space!",
+                "How does the man in the moon cut his hair? Eclipse it!",
+                "What is a spaceman's favorite chocolate? A Mars bar!",
+                "Why didn't the Sun go to college? It already had a million degrees!",
+                "How do you organize a party in space? You planet!"
+            ]
+        }             
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "intents": [
+        {
+            "tag": "solarSystemExploration",
+            "patterns": [
+                "Tell me about the Sun",
+                "What is the Sun?",
+                "Learn about the Sun",
+                "Sun facts",
+                "I want to know about the Sun",
+                "Sun exploration"
+            ],
+            "responses": [
+                "The Sun, our star, is like the boss of our solar system, sitting right in the middle and keeping everything in order. It's huge, made up of gases like hydrogen and helium, and it's super hot! Even though it's far away - about 93 million miles from Earth - it still gives us light and warmth, which are really important for life on our planet. Did you know that the Sun is so big that you could fit about 1.3 million Earths inside it? That's mind-blowing!"
+            ],
+            "search_terms": ["Sun", "Solar System", "Solar System Exploration"]
+        },
+        {
+            "tag": "solarSystemSafety",
+            "patterns": [
+                "Is it safe to go to the Sun?",
+                "How close can we get to the Sun?",
+                "Sun distance",
+                "Can we touch the Sun?",
+                "Sun temperature",
+                "Sun safety"
+            ],
+            "responses": [
+                "When we take a virtual trip to the Sun, we'll stay a safe distance away because it's way too hot to get close. We'll learn all about its role in making our weather and climate, and we'll discover cool things like sunspots - these are like cooler patches on the Sun's surface caused by magnetic fields. It's like the Sun's way of showing off its secrets to us curious Earthlings!"
+            ],
+            "search_terms": ["Sun Safety", "Sun Distance", "Solar Phenomena"]
+        },
+        {
+            "tag": "sunImpactOnEarth",
+            "patterns": [
+                "How does the Sun affect Earth?",
+                "Sun's impact on Earth",
+                "Sun and Earth's relationship",
+                "Why is the Sun important to Earth?",
+                "Sun's role in life on Earth",
+                "Effects of the Sun on our climate",
+                "Sun's influence on weather",
+                "Importance of sunlight",
+                "How does the Sun help plants?",
+                "Sun's gravitational effect on Earth",
+                "Role of the Sun in ecosystems",
+                "Why do we need the Sun?",
+                "Sun's energy and Earth",
+                "How does the Sun maintain temperatures?",
+                "Sun and Earth's orbit"
+            ],
+            "responses": [
+                "The Sun is like a giant, glowing heater in space, providing us with light and warmth that we need to survive. Its energy helps plants grow, gives us day and night, and even controls our weather. Without the Sun, our planet would be icy and lifeless. So, we can say the Sun is like Earth's best friend, keeping us cozy and comfortable every day!"
+            ],
+            "search_terms": ["Sun Impact on Earth", "Solar Energy", "Sunlight Effects"]
+        },
+        {
+            "tag": "solarPhenomena",
+            "patterns": [
+                "Solar flares",
+                "Sunspots",
+                "Solar storms",
+                "What are solar phenomena",
+                "Interesting activities on the Sun",
+                "How do solar flares happen?",
+                "What causes sunspots?",
+                "Effects of solar storms",
+                "Why does the Sun have flares?",
+                "Can we see solar phenomena?",
+                "Solar activity and Earth",
+                "What happens during a solar storm?",
+                "Explaining sunspots",
+                "Sun's magnetic field",
+                "Solar phenomena effects"
+            ],
+            "responses": [
+                "The Sun is like a big magnetic powerhouse in space, and sometimes it throws tantrums! These tantrums, called solar phenomena, can cause cool things like sunspots and fiery events called solar flares. Sunspots are like dark freckles on the Sun's face, and solar flares are like sudden bursts of energy. They're so powerful that they can even mess with our communication systems on Earth! But sometimes, these tantrums also create stunning light shows called auroras in the sky, which are just magical!"
+            ],
+            "search_terms": ["Solar Flares", "Sunspots", "Solar Storms"]
+        },
+        {
+            "tag": "sunFacts",
+            "patterns": [
+                "Cool facts about the Sun",
+                "Sun trivia",
+                "Something interesting about the Sun",
+                "Amazing Sun facts",
+                "Interesting Sun details",
+                "Tell me a Sun fact",
+                "Fun Sun facts",
+                "Weird facts about the Sun",
+                "Sun secrets",
+                "What's unique about the Sun?"
+            ],
+            "responses": [
+                "Did you know the Sun's surface temperature is about 5,500 degrees Celsius! That's really hot!",
+                "The Sun is so big that about 1.3 million Earths could fit inside it!",
+                "The Sun is a star at the center of the solar system and it's almost a perfect sphere.",
+                "Every second, the Sun converts 4 million tons of its material into energy!",
+                "The light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+                "The Sun travels around the galaxy, too! It completes an orbit every 230 million years.",
+                "The Sun's atmosphere extends millions of kilometers into space and is visible during solar eclipses."
+            ],
+            "search_terms": ["Sun Facts", "Sun Trivia", "Sun Characteristics"]
+        },
+        {
+            "tag": "solarExploration",
+            "patterns": [
+                "Explore the Sun",
+                "Studying the Sun",
+                "Solar exploration details",
+                "How do we explore the Sun?",
+                "Sun missions",
+                "Spacecraft to the Sun",
+                "Investigating the Sun",
+                "Learning about the Sun",
+                "Tools to study the Sun",
+                "Solar research"
+            ],
+            "responses": [
+                "Learning about the Sun is like being detectives in space! We use special tools like satellites and space telescopes to study it from afar. But some brave spacecraft, like the Parker Solar Probe, are getting up close and personal with the Sun, giving us the juiciest details yet! With instruments like solar observatories and probes, scientists can peek at the Sun's surface and figure out its secrets. This study, called solar physics, helps us understand everything from what the Sun is made of to how it affects the whole solar system. It's like solving a gigantic cosmic puzzle, and every piece of information brings us closer to unlocking the Sun's mysteries!"
+            ],
+            "search_terms": ["Solar Exploration", "Parker Solar Probe", "Sun Observation"]
+        }
+    ]
+}

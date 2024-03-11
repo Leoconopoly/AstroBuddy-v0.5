@@ -1,0 +1,81 @@
+{
+    "intents":[
+        {
+            "tag": "marsOverview",
+            "patterns": [
+                "Can we go to Mars?",
+                "Visit Mars",
+                "Explore the Red Planet",
+                "Show me Mars",
+                "Travel to Mars",
+                "Take me to Mars",
+                "Journey to Mars",
+                "Fly to Mars",
+                "Let's go see Mars",
+                "Mars expedition",
+                "Space trip to Mars",
+                "Discover Mars",
+                "Heading to Mars",
+                "Mars adventure",
+                "Can we explore Mars?",
+                "Tell me about Mars",
+                "What's Mars like?",
+                "Describe Mars",
+                "Mars facts",
+                "Information about Mars",
+                "Why is Mars red?",
+                "Mars's environment",
+                "Is Mars like Earth?",
+                "Features of Mars",
+                "Characteristics of Mars",
+                "What is the fourth planet?",
+                "Lets go to the 4th planet"
+            ],
+            "responses": [
+                "Pack your bags, because we're headed to Mars, also known as the Red Planet for its rusty hue caused by iron oxide! It's a land of extremes, boasting the tallest volcano and deepest canyon in the whole solar system. Mars offers an exciting terrain to explore, from its crimson surface to fascinating features like towering volcanoes and vast canyons. And get this - even though Mars is often compared to Earth, it's only about half the size but has just as much dry land! But don't expect a warm welcome - Mars is a chilly desert world with a thin atmosphere, where water mainly exists as ice or vapor. So, get ready for an out-of-this-world adventure to this intriguing planet!"
+            ],
+            "search_terms": ["Mars Surface", "Martian Landscape", "Red Planet Exploration"]
+        },
+        {
+            "tag": "marsFacts",
+            "patterns": [
+                "Interesting facts about Mars",
+                "Why is Mars red?",
+                "Tell me a Mars fact",
+                "Mars trivia",
+                "Cool Mars details",
+                "Facts about Mars",
+                "What's special about Mars?",
+                "Amazing things about Mars",
+                "Fun Mars information"
+            ],
+            "responses": [
+                "Mars is called the Red Planet because of its reddish appearance, thanks to iron oxide, or rust, on its surface.",
+                "Did you know that if you weigh 45 kg on Earth, you'd weigh only 17 kg on Mars due to its lower gravity?",
+                "Mars has two small moons named Phobos and Deimos, which are thought to be captured asteroids.",
+                "One Martian year, or the time it takes Mars to orbit the Sun, is 687 Earth days.",
+                "Mars experiences huge dust storms that can cover the entire planet and last for months."
+            ],
+            "search_terms": ["Mars Facts", "Red Planet Details", "Mars Trivia"]
+        },
+        {
+            "tag": "marsExploration",
+            "patterns": [
+                "Missions to Mars",
+                "Have we been to Mars?",
+                "Rovers on Mars",
+                "Exploring Mars",
+                "Mars missions",
+                "What have we discovered on Mars?",
+                "Space missions to Mars",
+                "History of Mars exploration",
+                "Robots on Mars"
+            ],
+            "responses": [
+                "Imagine robotic explorers like the Perseverance rover, zooming across Mars to uncover its secrets, hoping to unlock its past and see if it ever could have supported life! Mars has been a hot spot for missions from Earth, with each one delving into its surface, climate, and the potential for life. Take the Curiosity rover, for example, which touched down in 2012 and has been busy analyzing Martian rocks and soil, piecing together the planet's history. Then there's the InSight lander, digging deep to study Mars' interior, helping us understand how rocky planets like ours are born. And hold onto your space helmets, because future missions aim to not only bring back samples from Mars but also dream of sending humans to explore this mysterious world!"
+            ],
+            "search_terms": ["Mars Exploration", "Mars Missions", "Rovers on Mars"]
+        }        
+    ]
+}
+
