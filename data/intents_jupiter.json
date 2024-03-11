@@ -5,28 +5,29 @@
             "patterns": [
                 "Let's go to Jupiter",
                 "I want to see Jupiter",
-                "Can we visit Jupiter",
+                "Can we visit Jupiter?",
                 "Jupiter spaceship ride",
                 "Fly me to Jupiter",
                 "Journey to Jupiter",
                 "Space trip to Jupiter",
                 "Explore Jupiter with me",
-                "What's Jupiter like",
+                "What's Jupiter like?",
                 "Travel to Jupiter",
                 "Tell me about Jupiter",
-                "What's special about Jupiter",
-                "Why is Jupiter so big",
+                "What's special about Jupiter?",
+                "Why is Jupiter so big?",
                 "Jupiter facts for kids",
-                "Is Jupiter a gas planet",
-                "Why does Jupiter have storms",
+                "Is Jupiter a gas planet?",
+                "Why does Jupiter have storms?",
                 "Can you describe Jupiter",
-                "What makes Jupiter different",
+                "What makes Jupiter different?",
                 "Cool things about Jupiter",
                 "Lets go to the fifth planet",
-                "What is the 5th planet"
+                "What is the 5th planet?",
+                "Jupiter"
             ],
             "responses": [
-                "Let's blast off to Jupiter, the biggest planet in our solar system! It's like a giant ball of gas, mostly made up of hydrogen and helium. But the real star of the show is its famous Great Red Spot, a gigantic storm that's even bigger than our whole planet! Jupiter's also famous for its many moons, including four big ones called the Galilean moons. Did you know that a day on Jupiter is super short, only about 10 hours? And get this - its powerful magnetic field puts on an amazing light show with auroras way bigger than what we see on Earth! So, get ready for an out-of-this-world adventure to this incredible gas giant!"
+                "Let's blast off to Jupiter, the biggest planet in our solar system! It's like a giant ball of gas, mostly made up of hydrogen and helium. But the real star of the show is its famous Great Red Spot, a gigantic storm that's even bigger than our whole planet! Jupiter's also famous for its many moons, including four big ones called the Galilean moons. Did you know that a day on Jupiter is super short, only about 10 hours? And get this, its powerful magnetic field puts on an amazing light show with auroras way bigger than what we see on Earth! So, get ready for an out-of-this-world adventure to this incredible gas giant!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~medium.jpg"]
         },
@@ -37,15 +38,15 @@
                 "Amazing things about Jupiter",
                 "Tell me a cool Jupiter fact",
                 "Jupiter secrets",
-                "What's unique about Jupiter",
+                "What's unique about Jupiter?",
                 "Strange things about Jupiter",
-                "Did you know facts about Jupiter",
+                "Do you know facts about Jupiter?",
                 "Jupiter trivia for kids",
                 "Cool Jupiter stuff"
             ],
             "responses": [
                 "Did you know Jupiter's Great Red Spot is a storm that's been going for over 350 years?",
-                "Jupiter has the shortest day in the solar system - it rotates once in just 10 hours!",
+                "Jupiter has the shortest day in the solar system, it rotates once in just 10 hours!",
                 "The planet is so massive, it has a strong pull and has helped protect Earth from space rocks!",
                 "Jupiter's moon Ganymede is the largest moon in the solar system, even bigger than the planet Mercury!",
                 "Jupiter is super windy, with gusts reaching up to 400 miles per hour, much faster than the strongest hurricanes on Earth!"
@@ -56,9 +57,9 @@
             "tag": "jupiterExploration",
             "patterns": [
                 "Space missions to Jupiter",
-                "Who has visited Jupiter",
+                "Who has visited Jupiter?",
                 "Exploring Jupiter",
-                "What have we found out about Jupiter",
+                "What have we found out about Jupiter?",
                 "Jupiter space robots",
                 "Jupiter discoveries",
                 "Learning about Jupiter",

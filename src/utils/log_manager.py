@@ -51,20 +51,36 @@ class DBShutdownFileHandler(RotatingFileHandler):
 
     def parse_log_entry(self, log_entry):
         try:
-            parts = log_entry.split(' - ')
+            parts = log_entry.split(' - ', 1)
             if len(parts) < 2:
-                return None  # Skip entries that don't have the expected format
+                raise ValueError("Log entry does not have the expected format")
 
             timestamp_part = parts[0]
             message_part = parts[-1]
-            
-            user_message = message_part.split(' | ')[0].split(': ')[1].strip()
-            bot_response = message_part.split(' | ')[1].split(': ')[1].strip()
+
+            # Check if the message part contains the expected format
+            if '|' not in message_part:
+                # Skip processing this log entry
+                return None
+
+            message_split = message_part.split(' | AstroBuddy: ')
+            if len(message_split) != 2:
+                raise ValueError("Message part does not have the expected format after splitting")
+
+            user_message = message_split[0].split(': ')[1].strip()
+            bot_response = message_split[1].strip()
 
             return timestamp_part, user_message, bot_response
         except Exception as e:
             print(f"Error parsing log entry: {log_entry} | Error: {e}")
+            logger.error(f"Error parsing log entry: {log_entry} | Error: {e}")  # Log error message
             return None
+
+
+
+
+
+
 
 logger = logging.getLogger('AstroBuddyLogger')
 logger.setLevel(logging.INFO)

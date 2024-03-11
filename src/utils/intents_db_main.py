@@ -1,5 +1,4 @@
-# main.py
-from intents_database import create_database_if_not_exists, insert_data_to_db
+from intents_db import create_database_if_not_exists, insert_data_to_db
 from intent_data import load_intents
 
 if __name__ == "__main__":

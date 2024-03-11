@@ -3,10 +3,10 @@
         {
             "tag": "neptuneOverview",
             "patterns": [
-                "Can we go to Neptune",
+                "Can we go to Neptune?",
                 "Trip to Neptune",
                 "Let's visit Neptune",
-                "What's Neptune like",
+                "What's Neptune like?",
                 "Space journey to Neptune",
                 "I want to see Neptune",
                 "Fly to Neptune with me",
@@ -15,13 +15,13 @@
                 "Neptune adventure",
                 "Tell me about Neptune",
                 "Facts about Neptune for kids",
-                "What color is Neptune",
+                "What color is Neptune?",
                 "Cool things about Neptune",
-                "Is Neptune a gas giant",
-                "What's special about Neptune",
+                "Is Neptune a gas giant?",
+                "What's special about Neptune?",
                 "Describe Neptune",
                 "Neptune features",
-                "Why is Neptune blue"
+                "Why is Neptune blue?"
             ],
             "responses": [
                 "Prepare for an extraordinary journey to Neptune, the farthest planet from the Sun, cloaked in its mesmerizing deep blue hue, courtesy of methane swirling in its atmosphere. As we venture closer, we'll encounter a world of unparalleled extremes, with ferocious winds racing at unimaginable speeds and temperatures plunging to bone-chilling lows. This distant ice giant is shrouded in layers of water, ammonia, and methane ices, creating a frigid and turbulent environment unlike any other. Neptune's captivating blue color, adorned with mysterious dark spots and adorned with delicate rings and a host of moons, including the intriguing Triton, adds to its enigmatic charm, promising a voyage filled with wonder and discovery."
@@ -35,7 +35,7 @@
                 "Tell me something about Neptune",
                 "Weird things about Neptune",
                 "Amazing Neptune facts",
-                "What's unique about Neptune",
+                "What's unique about Neptune?",
                 "Neptune secrets",
                 "Fun Neptune information",
                 "Neptune trivia for kids",
@@ -54,9 +54,9 @@
             "tag": "neptuneExploration",
             "patterns": [
                 "Space missions to Neptune",
-                "Who has visited Neptune",
+                "Who has visited Neptune?",
                 "Exploring Neptune",
-                "What have we found out about Neptune",
+                "What have we found out about Neptune?",
                 "Neptune space robots",
                 "Learning about Neptune",
                 "Neptune discoveries",

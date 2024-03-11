@@ -3,77 +3,77 @@
         {
             "tag": "starBirth",
             "patterns": [
-            "How are stars born",
-            "What is a star made of",
-            "How do stars form",
-            "Where do stars come from",
-            "How are stars created",
-            "What is a star"
+                "How are stars born?",
+                "What is a star made of?",
+                "How do stars form?",
+                "Where do stars come from?",
+                "How are stars created?",
+                "What is a star?"
             ],
             "responses": [
-            "Stars are like cosmic babies born in giant clouds called nebulae. Inside these clouds, there's a lot of dust and gas floating around. When this material gets squished together by gravity, it heats up and starts to glow, just like a spark! This process is called nuclear fusion, and it's what makes a star shine bright in the sky!"
+                "Stars are like cosmic babies born in giant clouds called nebulae. Inside these clouds, there's a lot of dust and gas floating around. When this material gets squished together by gravity, it heats up and starts to glow, just like a spark! This process is called nuclear fusion, and it's what makes a star shine bright in the sky!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA14105/PIA14105~medium.jpg"]
         },
         {
             "tag": "starDeath",
             "patterns": [
-            "What happens when a star dies",
-            "How do stars die",
-            "What happens to stars when they get old",
-            "What happens to stars when they die"
+                "What happens when a star dies?",
+                "How do stars die?",
+                "What happens to stars when they get old?",
+                "What happens to stars when they die?"
             ],
             "responses": [
-            "When stars get really old, they go out with a bang! Some explode in a spectacular event called a supernova, spreading their stardust across the universe. Others collapse into super dense objects like black holes or neutron stars, kind of like a cosmic recycling!"
+                "When stars get really old, they go out with a bang! Some explode in a spectacular event called a supernova, spreading their stardust across the universe. Others collapse into super dense objects like black holes or neutron stars, kind of like a cosmic recycling!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA15817/PIA15817~medium.jpg"]
         },
         {
             "tag": "starColor",
             "patterns": [
-            "Can stars change color",
-            "Why do stars have different colours",
-            "Do stars change color",
-            "What makes stars different colours"
+                "Can stars change color?",
+                "Why do stars have different colours?",
+                "Do stars change color?",
+                "What makes stars different colours?"
             ],
             "responses": [
-            "Yes, stars can change colour, just like the leaves on trees in autumn! It all depends on how hot they are. Hotter stars glow blue, like a sizzling firework, while cooler stars shine red, like a cozy campfire. So, next time you look up at the night sky, see if you can spot stars of different colors!"
+                "Yes, stars can change colour, just like the leaves on trees in autumn! It all depends on how hot they are. Hotter stars glow blue, like a sizzling firework, while cooler stars shine red, like a cozy campfire. So, next time you look up at the night sky, see if you can spot stars of different colors!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/hubble-and-a-stellar-fingerprint_25132105049_o/hubble-and-a-stellar-fingerprint_25132105049_o~small.jpg"]
         },
         {
             "tag": "starTwinkle",
             "patterns": [
-            "Why do stars twinkle",
-            "What makes stars twinkle",
-            "Why do stars shimmer",
-            "Why do stars seem to dance"
+                "Why do stars twinkle?",
+                "What makes stars twinkle?",
+                "Why do stars shimmer?",
+                "Why do stars seem to dance?"
             ],
             "responses": [
-            "Stars twinkle like tiny diamonds in the sky because their light has to travel through Earth's atmosphere before reaching our eyes. As this light passes through the atmosphere, it gets bent and wobbled around by the air currents, making the stars seem to shimmer and dance. It's like looking at a light through a moving curtain!"
+                "Stars twinkle like tiny diamonds in the sky because their light has to travel through Earth's atmosphere before reaching our eyes. As this light passes through the atmosphere, it gets bent and wobbled around by the air currents, making the stars seem to shimmer and dance. It's like looking at a light through a moving curtain!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/hubble-and-a-stellar-fingerprint_25132105049_o/hubble-and-a-stellar-fingerprint_25132105049_o~small.jpg"]
         },
         {
             "tag": "supernovaExplanation",
             "patterns": [
-            "What's a supernova",
-            "What happens during a supernova",
-            "How does a supernova happen",
-            "What is a supernova"
+                "What's a supernova?",
+                "What happens during a supernova?",
+                "How does a supernova happen?",
+                "What is a supernova?"
             ],
             "responses": [
-            "A supernova is like a cosmic fireworks show! It's a gigantic explosion that happens when a really massive star reaches the end of its life. During a supernova, the star blasts off its outer layers into space, leaving behind a super dense core. It's one of the most dramatic events in the universe, lighting up the night sky with its incredible brightness!"
+                "A supernova is like a cosmic fireworks show! It's a gigantic explosion that happens when a really massive star reaches the end of its life. During a supernova, the star blasts off its outer layers into space, leaving behind a super dense core. It's one of the most dramatic events in the universe, lighting up the night sky with its incredible brightness!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001986/GSFC_20171208_Archive_e001986~orig.jpg"]
         },
         {
             "tag": "constellations",
             "patterns": [
-                "What are constellations",
-                "Can you name some constellations",
-                "How do constellations form",
-                "Why do we see different constellations in different seasons"
+                "What are constellations?",
+                "Can you name some constellations?",
+                "How do constellations form?",
+                "Why do we see different constellations in different seasons?"
             ],
             "responses": [
                 "Imagine the night sky like a giant storybook filled with twinkling stars, and constellations are the pictures that people long ago saw in those stars. They thought they looked like objects, animals, or even mythological creatures! Some famous ones you might have heard of are Orion the Hunter, Ursa Major the Great Bear, and Leo the Lion. These patterns form from our view here on Earth, as we group stars together based on how close they look to each other. And because Earth likes to dance around the Sun, we get to see different constellations at different times of the year, like flipping through different pages of a cosmic picture book!"
@@ -81,11 +81,50 @@
             "image_url": ["https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~medium.jpg"]
         },
         {
+            "tag": "galaxies",
+            "patterns": [
+                "What is a galaxy?",
+                "How many galaxies are there?",
+                "What is the biggest galaxy?",
+                "What is the smallest galaxy?"
+            ],
+            "responses": [
+                "A galaxy is a huge collection of stars, planets, gas, and dust, all held together by gravity. There are billions of galaxies in the universe, each with its own unique shape and size. Some galaxies are big, like the Milky Way, while others are small, like the dwarf galaxies that orbit around bigger ones."
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA22076/PIA22076~medium.jpg"]
+        },
+        {
+            "tag": "blackHoles",
+            "patterns": [
+                "What is a black hole?",
+                "How do black holes form?",
+                "What happens inside a black hole?",
+                "What is inside a black hole?"
+            ],
+            "responses": [
+                "A black hole is like a cosmic vacuum cleaner, sucking up everything around it. It's formed when a massive star collapses under its own gravity, squeezing all its matter into a tiny space. The gravity of a black hole is so strong that not even light can escape it, making it invisible to our eyes. Inside a black hole, the laws of physics as we know them break down, creating a place of mystery and wonder."
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA16695/PIA16695~medium.jpg"]
+        },
+        {
+            "tag": "nebulae",
+            "patterns": [
+                "What is a nebula?",
+                "How are nebulae formed?",
+                "What are nebulae made of?",
+                "What is inside a nebula?"
+            ],
+            "responses": [
+                "A nebula is like a cosmic cloud, made of gas and dust floating in space. They come in all sorts of shapes and sizes, and some are even the birthplace of new stars! Nebulae are formed when stars explode, sending their stardust out into space. This stardust then clumps together to form new stars, planets, and even us!"
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA16695/PIA16695~medium.jpg"]
+        },
+        {
             "tag": "astronautLife",
             "patterns": [
-                "What do astronauts eat in space",
-                "What kind of food is in space",
-                "Do astronauts eat regular food"
+                "What do astronauts eat in space?",
+                "What kind of food is in space?",
+                "Do astronauts eat regular food?"
             ],
             "responses": [
                 "Astronauts eat specially prepared food that can last a long time and is easy to eat in microgravity. They have a variety of meals, just like on Earth, but it's packaged differently to handle space conditions."
@@ -95,8 +134,8 @@
         {
             "tag": "astronautSleep",
             "patterns": [
-                "How do astronauts sleep in space",
-                "Do astronauts sleep in space"
+                "How do astronauts sleep in space?",
+                "Do astronauts sleep in space?"
             ],
             "responses":[
                 "Astronauts sleep in sleeping bags attached to the walls or ceiling so they don't float around. They can strap themselves to keep in one place during their sleep."
@@ -106,9 +145,9 @@
         {
             "tag": "astronautIllness",
             "patterns": [
-                "What happens if an astronaut gets sick in space",
-                "How do astronauts stay healthy in space",
-                "Can astronauts get sick in space"
+                "What happens if an astronaut gets sick in space?",
+                "How do astronauts stay healthy in space?",
+                "Can astronauts get sick in space?"
             ],
             "responses":[
                 "Astronauts can get sick in space, just like on Earth. They have to exercise, eat well, and keep their living space clean to stay healthy."
@@ -118,10 +157,10 @@
         {
             "tag": "internationalSpaceStation",
             "patterns": [
-                "What is the International Space Station",
-                "How do astronauts live in space",
-                "What do astronauts do in the International Space Station",
-                "How long do astronauts stay in the International Space Station"
+                "What is the International Space Station?",
+                "How do astronauts live in space?",
+                "What do astronauts do in the International Space Station?",
+                "How long do astronauts stay in the International Space Station?"
             ],
             "responses":[
                 "The International Space Station is like a floating home in space, where astronauts live and work together. It circles around Earth, providing a unique place for important scientific experiments. Astronauts stay there for about 6 months, sleeping, eating, exercising, and doing all sorts of cool experiments. They study how our bodies respond to space, grow plants, and test out new technologies. It's like a hub for exploring the mysteries of space and learning how we can live and work in this amazing environment!"
@@ -131,10 +170,10 @@
         {
             "tag": "hubbleSpaceTelescope",
             "patterns":[
-                "What is the Hubble Space Telescope",
-                "How does the Hubble Space Telescope work",
-                "What has the Hubble Space Telescope discovered",
-                "How far can the Hubble Space Telescope see"
+                "What is the Hubble Space Telescope?",
+                "How does the Hubble Space Telescope work?",
+                "What has the Hubble Space Telescope discovered?",
+                "How far can the Hubble Space Telescope see?"
             ],
             "responses":[
                 "The Hubble Space Telescope is a powerful telescope that orbits Earth, providing clear images of space. It has helped scientists discover new planets, stars, and galaxies, and has given us a better understanding of the universe. It can see objects billions of light-years away!"
@@ -144,8 +183,8 @@
         {
             "tag": "firstAstronaut",
             "patterns":[
-                "Who was the first person in space",
-                "When did the first person go to space"
+                "Who was the first person in space?",
+                "When did the first person go to space?"
             ],
             "responses":[
                 "The first person in space was Yuri Gagarin, a Soviet cosmonaut, who orbited Earth on April 12, 1961."
@@ -155,8 +194,8 @@
         {
             "tag": "animalsInSpace",
             "patterns":[
-                "Have we ever sent animals to space",
-                "What animals have been to space"
+                "Have we ever sent animals to space?",
+                "What animals have been to space?"
             ],
             "responses":[
                 "Yes, before humans, animals like dogs, monkeys, and even a cat were sent to space to help scientists understand if living beings could survive space travel."
@@ -164,12 +203,10 @@
             "image_url": ["https://images-assets.nasa.gov/image/201206160016HQ/201206160016HQ~medium.jpg"]
         },
         {
-                
             "tag": "spaceExploration",
             "patterns": [
-                
-                "How do we explore space",
-                "What is a space probe"
+                "How do we explore space?",
+                "What is a space probe?"
             ],
             "responses": [
                 "We're like cosmic detectives, exploring space using different tools! Telescopes help us see far into the universe, revealing distant stars and galaxies. Space probes, like robotic scouts, journey beyond Earth to study planets, moons, and other celestial bodies up close. And then there are astronauts, brave explorers who conduct missions in space, venturing where no one has gone before. Each method gives us unique insights into the wonders of the cosmos, helping us unlock its secrets one discovery at a time!"
@@ -179,10 +216,10 @@
         {
             "tag": "moonQuestions",
             "patterns": [
-                "Why does the moon change shape",
-                "Can you live on the moon",
-                "What is the dark side of the moon",
-                "How do we get to the moon"
+                "Why does the moon change shape?",
+                "Can you live on the moon?",
+                "What is the dark side of the moon?",
+                "How do we get to the moon?"
             ],
             "responses": [
                 "The Moon's shape changes in our sky because it travels around Earth, revealing different parts of its illuminated side. Living on the Moon would be tough since it lacks air and water, and has extreme temperatures. The 'dark side' of the Moon is just the side we can't see from Earth, not darker. Astronauts reach the Moon via spacecraft, a journey taking about 3 days to cover the 384,400 km distance from Earth."
@@ -192,47 +229,47 @@
         {
             "tag": "closestPlanet",
             "patterns": [
-            "Which planet is closest to the Sun",
-            "What is the closest planet to the Sun",
-            "What planet is closest to the Sun",
-            "What is the nearest planet to the Sun"
+                "Which planet is closest to the Sun?",
+                "What is the closest planet to the Sun?",
+                "What planet is closest to the Sun?",
+                "What is the nearest planet to the Sun?"
             ],
             "responses": [
-            "Mercury is the closest planet to the Sun."
+                "Mercury is the closest planet to the Sun."
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA11406/PIA11406~orig.jpg"]
         },
         {
             "tag": "redPlanet",
             "patterns": [
-            "What planet is known as the Red Planet",
-            "Why is Mars called the Red Planet",
-            "Why is Mars red",
-            "What makes Mars red"
+                "What planet is known as the Red Planet?",
+                "Why is Mars called the Red Planet?",
+                "Why is Mars red?",
+                "What makes Mars red?"
             ],
             "responses": [
-            "Mars is known as the Red Planet because of its reddish appearance, which is due to iron oxide, or rust, on its surface."
+                "Mars is known as the Red Planet because of its reddish appearance, which is due to iron oxide, or rust, on its surface."
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA01120/PIA01120~medium.jpg"]
         },
         {
             "tag": "saturnRings",
             "patterns": [
-            "Can you tell me about Saturn's rings",
-            "What are Saturn's rings made of",
-            "What are the rings around Saturn made of",
-            "What is Saturn's ring made of"
+                "Can you tell me about Saturn's rings?",
+                "What are Saturn's rings made of?",
+                "What are the rings around Saturn made of?",
+                "What is Saturn's ring made of?"
             ],
             "responses": [
-            "Saturn's rings are made of ice and rock. Some pieces are as small as dust grains, while others are as big as mountains!"
+                "Saturn's rings are made of ice and rock. Some pieces are as small as dust grains, while others are as big as mountains!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA07872/PIA07872~medium.jpg"]
         },
         {
             "tag": "exoplanetQuestions",
             "patterns":[
-                "Are there more planets out there",
-                "Are there planets outside the solar system"
+                "Are there more planets out there?",
+                "Are there planets outside the solar system?"
             ],
             "responses":[
                 "Yes, there are many more planets in the galaxy outside our solar system that have been discovered, however, they are very far away from us and it would take us a long time to get there!"
@@ -242,38 +279,38 @@
         {
             "tag": "alienQuestions",
             "patterns":[
-                "Do aliens exist",
-                "Are there aliens on other planets",
-                "Have aliens visited Earth",
-                "What do aliens look like",
-                "Can aliens breathe our air",
-                "Are aliens friendly",
-                "Can aliens communicate with us",
-                "Are aliens smarter than humans",
-                "How do aliens travel through space",
-                "Why do aliens abduct people",
-                "Are aliens real",
-                "What do aliens eat",
-                "How many arms/eyes/legs do aliens have",
-                "Do aliens have families",
-                "Are aliens dangerous",
-                "Why are aliens green",
-                "Do aliens have pets",
-                "Can we be friends with aliens",
-                "Do aliens have superpowers",
-                "Can aliens understand our languages",
-                "Do aliens celebrate holidays",
-                "Do aliens have birthdays",
-                "Are aliens real or just in movies",
-                "Are there aliens in our galaxy"
+                "Do aliens exist?",
+                "Are there aliens on other planets?",
+                "Have aliens visited Earth?",
+                "What do aliens look like?",
+                "Can aliens breathe our air?",
+                "Are aliens friendly?",
+                "Can aliens communicate with us?",
+                "Are aliens smarter than humans?",
+                "How do aliens travel through space?",
+                "Why do aliens abduct people?",
+                "Are aliens real?",
+                "What do aliens eat?",
+                "How many arms/eyes/legs do aliens have?",
+                "Do aliens have families?",
+                "Are aliens dangerous?",
+                "Why are aliens green?",
+                "Do aliens have pets?",
+                "Can we be friends with aliens?",
+                "Do aliens have superpowers?",
+                "Can aliens understand our languages?",
+                "Do aliens celebrate holidays?",
+                "Do aliens have birthdays?",
+                "Are aliens real or just in movies?",
+                "Are there aliens in our galaxy?"
             ],
             "responses":[
                 "Aliens are creatures that come from other planets. While we haven't found any aliens yet, some scientists think there might be aliens somewhere out there in space. If aliens do exist, they could look very different from us, with strange features like big eyes or green skin! However, until we find evidence of aliens, they remain a mystery.",
                 "Aliens are beings that live on other planets in our universe. We haven't found any aliens yet, but scientists are always looking! If aliens do exist, they might be very different from us. They could have different body shapes, colors, and ways of communicating. We may even find out that some aliens are friendly and want to learn about us, just like we want to learn about them!",
                 "Aliens are creatures that might live on other planets. While we haven't met any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like flying, changing shape, or even living forever! But until we find proof of aliens, they will remain a mystery waiting to be solved.",
-                "Aliens are beings from other planets in the universe. While we haven't seen any aliens yet, scientists are looking for signs of alien life. If aliens do exist, they might have very different bodies from us, with extra limbs, strange colors, or even the ability to change shape! But until we find evidence of aliens, they will remain a fascinating mystery.",
-                "Aliens are creatures from other planets. While we haven't met any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could be very different from us, with strange features like big eyes, long tentacles, or even wings! But until we find evidence of aliens, we can only imagine what they might be like.",
-                "Aliens are beings that come from other planets in the universe. While we haven't found any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like flying, telepathy, or even time travel! But until we find evidence of aliens, they will remain a mystery waiting to be solved.",
+                "Aliens are beings from other planets in the universe. While we haven't seen any aliens yet, scientists are looking for signs of alien life. If aliens do exist, they could have very different bodies from us, with extra limbs, strange colors, or even the ability to change shape! But until we find evidence of aliens, they will remain a fascinating mystery.",
+                "Aliens are creatures that come from other planets. While we haven't found any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like the power to control the weather, communicate telepathically, or even travel through time! But until we find evidence of aliens, they will remain a mystery waiting to be solved.",
+                "Aliens are beings that come from other planets in the universe. While we haven't met any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like the power to heal, control the elements, or even change their shape! But until we find evidence of aliens, they will remain a mystery.",
                 "Aliens are creatures that might live on other planets. While we haven't met any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like super strength, the power to fly, or even the ability to live forever! But until we find evidence of aliens, they will remain a mystery.",
                 "Aliens are beings from other planets in the universe. While we haven't seen any aliens yet, scientists are looking for signs of alien life. If aliens do exist, they could have very different bodies from us, with extra eyes, long tails, or even the ability to change color! But until we find evidence of aliens, they will remain a fascinating mystery.",
                 "Aliens are creatures that come from other planets. While we haven't found any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like the power to control the weather, communicate telepathically, or even travel through time! But until we find evidence of aliens, they will remain a mystery waiting to be solved.",

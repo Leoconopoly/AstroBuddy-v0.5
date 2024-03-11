@@ -121,3 +121,4 @@ class ChatApplication(QWidget):
             formatted_msg = f"<b>User:</b> {msg}"
 
         self.chat_window.append(formatted_msg)
+

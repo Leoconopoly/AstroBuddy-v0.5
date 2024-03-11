@@ -51,21 +51,21 @@
         {
             "tag": "howAreYou",
             "patterns": [
-                "How are you",
-                "How are you doing",
-                "How's it going",
-                "How are you today",
-                "How's everything",
-                "How are you feeling",
-                "How's life",
-                "How's your day",
-                "How are you, AstroBuddy",
+                "How are you?",
+                "How are you doing?",
+                "How's it going?",
+                "How are you today?",
+                "How's everything?",
+                "How are you feeling?",
+                "How's life?",
+                "How's your day?",
+                "How are you, AstroBuddy?",
                 "How's it going, AstroBuddy",
-                "How are you doing, AstroBuddy",
+                "How are you doing, AstroBuddy?",
                 "How are you today, AstroBuddy",
-                "How's everything, AstroBuddy",
+                "How's everything, AstroBuddy?",
                 "How are you feeling, AstroBuddy",
-                "How's life, AstroBuddy",
+                "How's life, AstroBuddy?",
                 "How's your day, AstroBuddy"
             ],
             "responses": [
@@ -89,10 +89,10 @@
         {
             "tag": "spaceTravel",
             "patterns": [
-            "Can we travel in space",
+            "Can we travel in space?",
             "Tell me about traveling to a planet",
-            "What's it like to travel in space",
-            "How do we travel to other planets",
+            "What's it like to travel in space?",
+            "How do we travel to other planets?",
             "Space travel destinations",
             "Explore the solar system",
             "Take me on a space journey"
@@ -110,27 +110,27 @@
             "I want to see the solar system",
             "Begin solar system tour",
             "Let's explore the solar system",
-            "Can I see the solar system",
+            "Can I see the solar system?",
             "Take me on a space tour",
             "Show me space",
             "I want to explore space",
             "Start space journey",
             "Lets go",
-            "Where can I go",
-            "What is there to explore",
-            "What is out there",
+            "Where can I go?",
+            "What is there to explore?",
+            "What is out there?",
             "Show me places to visit in space",
             "Space destinations",
-            "Where can we explore",
+            "Where can we explore?",
             "Options for space travel",
             "Cosmic locations to visit",
-            "Can you suggest space places",
-            "What's interesting in space",
+            "Can you suggest space places?",
+            "What's interesting in space?",
             "Guided space tour options",
             "Space exploration choices",
             "Different planets to visit",
             "Interesting celestial bodies",
-            "What are some space wonders"
+            "What are some space wonders?"
             ],
             "responses": [
             "Welcome to our solar system! Here you can see all the planets orbiting our Sun. Which planet would you like to visit?"
@@ -141,14 +141,14 @@
             "tag": "leavingSpaceArea",
             "patterns": [
             "Let's go somewhere else",
-            "What's next to explore",
+            "What's next to explore?",
             "Can we see another place in space",
-            "Where to after this",
-            "Done here, where next",
-            "Goodbye, where are we off to now",
+            "Where to after this?",
+            "Done here, where next?",
+            "Goodbye, where are we off to now?",
             "Next space adventure",
-            "Finished here, what's our next stop",
-            "Time to move on, where to"
+            "Finished here, what's our next stop?",
+            "Time to move on, where to?"
             ],
             "responses": [
             "Off we go to another cosmic destination! Where do you want to explore next in the vast universe?"
@@ -260,18 +260,18 @@
         {
             "tag": "funnySpaceJokes",
             "patterns": [
-                "Can you tell me a joke",
-                "Can you tell me a space joke",
+                "Can you tell me a joke?",
+                "Can you tell me a space joke?",
                 "Tell me a funny space fact",
                 "I want to hear a space joke",
                 "Make me laugh with a space joke",
-                "Do you know any good space jokes",
+                "Do you know any good space jokes?",
                 "Space joke please",
                 "Something funny about space",
                 "Give me a space joke",
                 "Joke time",
                 "Tell me something funny",
-                "Can you make me laugh"
+                "Can you make me laugh?"
             ],
             "responses": [
                 "Why did the sun go to school? To get brighter!",

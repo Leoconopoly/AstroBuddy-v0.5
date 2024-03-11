@@ -1,4 +1,3 @@
-# intent_data.py
 import json
 
 def load_intents(json_files):

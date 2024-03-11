@@ -44,16 +44,11 @@ def load_responses(db_path):
         if tag not in responses:
             responses[tag] = []
         responses[tag].append(response)
-
-    print(f"Total tags loaded: {len(responses)}")
-    for tag in responses:
-        print(f"{tag}: {len(responses[tag])} responses loaded")
-    
+ 
     return responses
 
 db_path = 'db/astrobuddy_v0.5.db'  
 intents_responses = load_responses(db_path)
-print("Loaded tags:", intents_responses.keys())
 
 FILE = "data.pth"
 data = torch.load(FILE, map_location=device)
@@ -95,11 +90,13 @@ def get_response(msg):
     probs = torch.softmax(output, dim=1)
     confidence = probs[0][predicted.item()].item()
 
-    if confidence > 0.75 and tag in intents_responses: 
+    if confidence > 0.75 and tag in intents_responses: # Confidence rating changed from .75 to .8
         response = random.choice(intents_responses[tag])
     else:
         response = "I'm sorry I do not understand, like you I am still learning. Can you try messaging me again in full sentences so I can try to understand a bit better..."
 
     return response
+
+
 
 
