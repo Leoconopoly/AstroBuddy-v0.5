@@ -2,6 +2,7 @@ import requests
 import json
 from PyQt5.QtWidgets import QLabel
 from PyQt5.QtGui import QPixmap
+from PyQt5.QtCore import Qt
 
 class MediaViewer(QLabel):
 
@@ -17,7 +18,9 @@ class MediaViewer(QLabel):
 
     def set_default_image(self):
         pixmap = QPixmap(self.default_image_path)
-        self.setPixmap(pixmap)
+        # Scale pixmap to a new size while keeping the aspect ratio
+        scaled_pixmap = pixmap.scaled(800, 600, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+        self.setPixmap(scaled_pixmap)
 
     def display_nasa_apod(self):
         apod_url = "https://api.nasa.gov/planetary/apod"
@@ -39,8 +42,17 @@ class MediaViewer(QLabel):
         if response.status_code == 200:
             pixmap = QPixmap()
             pixmap.loadFromData(response.content)
-            self.setPixmap(pixmap)
+            # Scale pixmap to a new size while keeping the aspect ratio
+            scaled_pixmap = pixmap.scaled(800, 600, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+            self.setPixmap(scaled_pixmap)
         else:
             print("Failed to load image from URL.")
+
+    def display_image_from_url(self, url):
+        if url:  # If an image URL is provided
+            self.load_image(url)  # Assuming load_image is a method to set the image from URL
+        else:  # Display default image if no URL is provided
+            self.set_default_image()
+
 
 

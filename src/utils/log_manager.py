@@ -76,12 +76,6 @@ class DBShutdownFileHandler(RotatingFileHandler):
             logger.error(f"Error parsing log entry: {log_entry} | Error: {e}")  # Log error message
             return None
 
-
-
-
-
-
-
 logger = logging.getLogger('AstroBuddyLogger')
 logger.setLevel(logging.INFO)
 handler = DBShutdownFileHandler('log_data/astrobuddy_chat_logs.log')

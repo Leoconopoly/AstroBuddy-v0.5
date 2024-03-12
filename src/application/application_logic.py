@@ -109,8 +109,9 @@ class ChatApplication(QWidget):
         msg = self.msg_entry.text()
         if msg:
             self.insertMessage(msg, "User")
-            response = get_response(msg)
+            response, image_url = get_response(msg)  # Adjusted to receive both response and image_url
             self.insertMessage(response, bot_name)
+            self.media_viewer.display_image_from_url(image_url)  # Display the image associated with the response
             logger.info(f"User: {msg} | {bot_name}: {response}")
 
     def insertMessage(self, msg, sender):

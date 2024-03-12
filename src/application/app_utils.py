@@ -1,5 +1,4 @@
-import os
-from PyQt5.QtGui import QFont, QFontDatabase
+from PyQt5.QtGui import QFontDatabase
 
 def add_font():
     # Add the font loading logic here
