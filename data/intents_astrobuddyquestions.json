@@ -4,7 +4,6 @@
             "tag": "aboutChatbot",
             "patterns": [
                 "What are you?",
-                "Who created you?",
                 "Are you a robot?",
                 "What's your name?",
                 "Who are you?",
@@ -15,6 +14,20 @@
                 "My name's AstroBuddy, and I'm here to guide you through the mysteries of the universe and answer your space questions.",
                 "I'm a chatbot called AstroBuddy, designed to provide information and fun facts about space. I can also tell jokes and take you on virtual space tours!"
             ]
+        },
+        {
+            "tag": "creatorChatbot",
+            "patterns": [
+                "Who made you?",
+                "Who created you?",
+                "Who is your creator?",
+                "Who developed you?",
+                "Who designed you?"
+            ],
+            "responses": [
+                "I was crafted by Leo Conoy, a final year Computer Science undergraduate at Teesside University. This project represents a fusion of Leo's interests in Artificial Intelligence, Space Science, and educational innovation. Connect with Leo on LinkedIn or follow him on Twitter @LeoConoy for more insights."
+            ],
+            "image_url": ["https://lh3.googleusercontent.com/pw/AP1GczMV2wVn0WKeQcoNyNkxEN1NJIiKj8w8Jb1DoclC3GJbY-NqaVBKhlZCZIVKmyHzBuaYsifwpsmsTZ6ZbVWia7nUZSsyfxOOqxUS67h5FYTR4ykwljKnQXVDxPDZKGk309KDYSZqcW135LwNt72ElMs=w768-h768-s-no?authuser=0"]
         },
         {
             "tag": "abilitiesChatbot",
