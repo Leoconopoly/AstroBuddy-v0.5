@@ -73,6 +73,7 @@ The project files are organized as follows:
 - **`log_data/`**: Contains `chat_logs.db` and temporary log files from all chats.
 - **`src/`**: Contains the following source code files:
   - **`api/`**: Handles all API functions.
+    - **`nasa_media_requests.py`**: IN DEVELOPMENT - handles logic for pulling search images from NASA image library
   - **`application/`**: Functions for handling the GUI.    
     - **`app_utils.py`**: Utilities used by the GUI.    
     - **`application_logic.py`**: Handles the logic behind the GUI.    
@@ -85,7 +86,9 @@ The project files are organized as follows:
     - **`nltk_utils.py`**: Utility functions for text preprocessing using NLTK.    
     - **`train.py`**: Script for training the deep learning model.  
   - **`utils/`**: Directory for project utilities.    
-    - **`init_db.py`**: Initializes the database from hard-coded data.    
+    - **`intent_data.py`**: Loads intent data from JSON files
+    - **`intents_db_main.py`**: Executes the intialization of the Intents Database
+    - **`intetns_db.py`**: Handles logic behind Intents Database initilization and updates     
     - **`log_manager.py`**: Handles all logic for managing and storing the chat logs.
 
 ## Credits
