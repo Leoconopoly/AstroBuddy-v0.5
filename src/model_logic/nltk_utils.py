@@ -35,7 +35,7 @@ def stem(word):
     """
     return stemmer.stem(word.lower())
 
-# New function to create a word index mapping
+# Function to create a word index mapping
 def create_vocab(all_words):
     """
     Create a word index mapping.
@@ -90,5 +90,6 @@ def pad_sequences(sequences, max_len):
         else:
             padded_sequences[i, :len(seq)] = seq
     return padded_sequences
+
 
 

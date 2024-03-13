@@ -15,10 +15,13 @@ class LSTMNet(nn.Module):
             dropout_rate (float): Dropout probability.
         """
         super(LSTMNet, self).__init__()
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)  # Embedding layer
+        # Embedding layer
+        self.embedding = nn.Embedding(vocab_size, embedding_dim)
         self.hidden_size = hidden_size
         self.num_layers = num_layers
+        # LSTM layer
         self.lstm = nn.LSTM(embedding_dim, hidden_size, num_layers, batch_first=True, dropout=dropout_rate)
+        # Fully connected layer
         self.fc = nn.Linear(hidden_size, output_size)
     
     def forward(self, x):

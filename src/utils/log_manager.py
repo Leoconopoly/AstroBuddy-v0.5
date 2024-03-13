@@ -7,17 +7,33 @@ import uuid
 
 class DBShutdownFileHandler(RotatingFileHandler):
     def __init__(self, filename, db_path='log_data/chat_logs.db'):
+        """
+        Initialize the custom logging handler.
+
+        Parameters:
+            filename (str): Path to the log file.
+            db_path (str): Path to the SQLite database file.
+        """
         super().__init__(filename, maxBytes=0, backupCount=0)
         self.db_path = db_path
         self.ensure_db_directory()
         self.conversation_id = str(uuid.uuid4())  # Generate a unique conversation ID
 
     def close(self):
+        """
+        Close the logging handler and transfer log data to the database.
+        """
         self.transferLogToDB(self.baseFilename)
         open(self.baseFilename, 'w').close()
         super().close()
 
     def transferLogToDB(self, log_file_path):
+        """
+        Transfer log data from the log file to the SQLite database.
+
+        Parameters:
+            log_file_path (str): Path to the log file.
+        """
         retries = 5
         while retries > 0:
             try:
@@ -43,13 +59,24 @@ class DBShutdownFileHandler(RotatingFileHandler):
                 else:
                     raise  # Re-raise exception if it's not a lock-related error
 
-
     def ensure_db_directory(self):
+        """
+        Ensure that the directory for the database file exists.
+        """
         db_dir = os.path.dirname(self.db_path)
         if not os.path.exists(db_dir):
             os.makedirs(db_dir)
 
     def parse_log_entry(self, log_entry):
+        """
+        Parse a log entry into timestamp, user message, and bot response.
+
+        Parameters:
+            log_entry (str): Log entry string.
+
+        Returns:
+            tuple: Tuple containing timestamp, user message, and bot response.
+        """
         try:
             parts = log_entry.split(' - ', 1)
             if len(parts) < 2:
@@ -76,8 +103,10 @@ class DBShutdownFileHandler(RotatingFileHandler):
             logger.error(f"Error parsing log entry: {log_entry} | Error: {e}")  # Log error message
             return None
 
+# Initialize the logger
 logger = logging.getLogger('AstroBuddyLogger')
 logger.setLevel(logging.INFO)
 handler = DBShutdownFileHandler('log_data/astrobuddy_chat_logs.log')
 handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s', '%Y-%m-%d %H:%M:%S'))
 logger.addHandler(handler)
+

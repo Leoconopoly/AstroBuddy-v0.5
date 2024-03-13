@@ -2,6 +2,7 @@ from intents_db import create_database_if_not_exists, insert_data_to_db
 from intent_data import load_intents
 
 if __name__ == "__main__":
+    # List of paths to JSON files containing intents data
     json_files = [
         'data/intents_asteroidbelt.json',
         'data/intents_astrobuddyquestions.json',
@@ -20,7 +21,16 @@ if __name__ == "__main__":
         'data/intents_uranus.json',
         'data/intents_venus.json'
     ]
+    
+    # Path to the SQLite database
     db_path = 'db/astrobuddy_v0.5.db'  
+    
+    # Create the database if it doesn't exist
     create_database_if_not_exists(db_path)
+    
+    # Load intents data from JSON files
     intents_data = load_intents(json_files)
+    
+    # Insert the loaded intents data into the database
     insert_data_to_db(intents_data, db_path)
+

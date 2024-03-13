@@ -2,15 +2,36 @@ import sqlite3
 import os
 
 def db_exists(db_path):
+    """
+    Check if the database file exists.
+
+    Parameters:
+        db_path (str): Path to the SQLite database file.
+
+    Returns:
+        bool: True if the database file exists, False otherwise.
+    """
     return os.path.exists(db_path)
 
 def create_database_if_not_exists(db_path):
+    """
+    Create a new SQLite database if it doesn't exist.
+
+    Parameters:
+        db_path (str): Path to the SQLite database file.
+    """
     if not db_exists(db_path):
         conn = sqlite3.connect(db_path)
         conn.close()
         print(f"Database created at {db_path}")
 
 def clear_data_from_db(db_path):
+    """
+    Clear data from all tables in the database.
+
+    Parameters:
+        db_path (str): Path to the SQLite database file.
+    """
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
@@ -70,6 +91,13 @@ def create_db_schema(db_path):
     conn.close()
 
 def insert_data_to_db(data, db_path):
+    """
+    Insert data into the SQLite database.
+
+    Parameters:
+        data (dict): Dictionary containing the intents data.
+        db_path (str): Path to the SQLite database file.
+    """
     create_db_schema(db_path)
     clear_data_from_db(db_path)
     
