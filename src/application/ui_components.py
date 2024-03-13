@@ -49,10 +49,15 @@ class MediaViewer(QLabel):
             print("Failed to load image from URL.")
 
     def display_image_from_url(self, url):
-        if url:  # If an image URL is provided
-            self.load_image(url)  # Assuming load_image is a method to set the image from URL
-        else:  # Display default image if no URL is provided
+        if url and url.startswith(('http://', 'https://')):  # If a valid URL is provided
+            self.load_image(url)  # Load image from URL
+        elif url:  # If a local file path is provided
+            pixmap = QPixmap(url)  # Load image from file system
+            scaled_pixmap = pixmap.scaled(800, 600, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+            self.setPixmap(scaled_pixmap)
+        else:  # Display default image if no URL or file path is provided
             self.set_default_image()
+
 
 
 
