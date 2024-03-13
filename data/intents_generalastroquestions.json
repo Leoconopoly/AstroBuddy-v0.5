@@ -91,7 +91,7 @@
             "responses": [
                 "A galaxy is a huge collection of stars, planets, gas, and dust, all held together by gravity. There are billions of galaxies in the universe, each with its own unique shape and size. Some galaxies are big, like the Milky Way, while others are small, like the dwarf galaxies that orbit around bigger ones."
             ],
-            "image_url": ["https://images-assets.nasa.gov/image/PIA22076/PIA22076~medium.jpg"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg"]
         },
         {
             "tag": "blackHoles",
@@ -117,7 +117,7 @@
             "responses": [
                 "A nebula is like a cosmic cloud, made of gas and dust floating in space. They come in all sorts of shapes and sizes, and some are even the birthplace of new stars! Nebulae are formed when stars explode, sending their stardust out into space. This stardust then clumps together to form new stars, planets, and even us!"
             ],
-            "image_url": ["https://images-assets.nasa.gov/image/PIA16695/PIA16695~medium.jpg"]
+            "image_url": ["https://images-assets.nasa.gov/image/PIA23409/PIA23409~medium.jpg"]
         },
         {
             "tag": "astronautLife",
