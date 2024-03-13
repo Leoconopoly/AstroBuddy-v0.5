@@ -22,7 +22,12 @@
                 "Who created you?",
                 "Who is your creator?",
                 "Who developed you?",
-                "Who designed you?"
+                "Who designed you?",
+                "Who programmed you?",
+                "Who is your developer?",
+                "Who is your designer?",
+                "Who is your maker?",
+                "Who is your builder?"
             ],
             "responses": [
                 "I was crafted by Leo Conoy, a final year Computer Science undergraduate at Teesside University. This project represents a fusion of Leo's interests in Artificial Intelligence, Space Science, and educational innovation. Connect with Leo on LinkedIn or follow him on Twitter @LeoConoy for more insights."
@@ -70,7 +75,10 @@
         {
             "tag": "favouriteplanetChatbot",
             "patterns": [
-                "Do you have a favorite planet?"
+                "Do you have a favorite planet?",
+                "What is your favorite planet?",
+                "Do you have a favourite planet?",
+                "What's your favorite planet?"
             ],
             "responses": [
                 "While I don't have a favorite planet, I think each one in our solar system has something special to offer."
@@ -103,7 +111,20 @@
                 "Is there something you can't do?",
                 "Do you not know something?",
                 "What if I ask something too hard?",
-                "What can't you help me with?"
+                "What can't you help me with?",
+                "Are there things you can't answer?",
+                "Can you not answer everything?",
+                "Are there things you can't do?",
+                "What if I ask something you don't know?",
+                "Are there things you can't talk about?",
+                "Can you not help me with everything?",
+                "Are there things you can't do?",
+                "What if I ask something too difficult?",
+                "What can't you do?",
+                "Are there things you can't help me with?",
+                "Can you not answer all my questions?",
+                "What cant you help me with",
+                "What cant you help me with?"
                 
             ],
             "responses": [
@@ -124,7 +145,10 @@
                 "Are you always accurate?",
                 "Can you lie to me?",
                 "Can you be wrong?",
-                "Are you always correct?"
+                "Are you always correct?",
+                "Can you be mistaken?",
+                "Can you be incorrect?",
+                "Can you be wrong?"
             ],
             "responses": [
                 "I'm programmed to provide accurate information, but I might not always get things right. If I make a mistake, I'm here to learn and improve.",
@@ -142,10 +166,22 @@
                 "I don't believe you.",
                 "I think you're lying.",
                 "You're not very smart.",
-                "You're not helpful.",
+                "You are not helpful.",
                 "You're not very good.",
-                "You're not very knowledgeable.",
-                "You're not very clever."
+                "You are not very knowledgeable.",
+                "You're not very clever.",
+                "You are not very intelligent.",
+                "You're not very accurate.",
+                "You are not very reliable.",
+                "You're not very trustworthy.",
+                "You are not very helpful.",
+                "You're not very good at this.",
+                "You are not very good at answering questions.",
+                "You're not very good at providing information.",
+                "You are not very good at giving answers.",
+                "You are wrong",
+                "Youre wrong",
+                "you are wrong"
             ],
             "responses": [
                 "I'm sorry if I've provided incorrect information. Like any chatbot, I'm based on programmed knowledge, which can sometimes become outdated or incomplete.",

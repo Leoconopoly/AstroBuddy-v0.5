@@ -21,7 +21,6 @@
                 "Tell me about Mars",
                 "What's Mars like?",
                 "Describe Mars",
-                "Mars facts",
                 "Information about Mars",
                 "Why is Mars red?",
                 "Mars's environment",
@@ -48,7 +47,8 @@
                 "Facts about Mars",
                 "What's special about Mars?",
                 "Amazing things about Mars",
-                "Fun Mars information"
+                "Fun Mars information",
+                "Mars facts"
             ],
             "responses": [
                 "Mars is called the Red Planet because of its reddish appearance, thanks to iron oxide, or rust, on its surface.",

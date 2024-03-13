@@ -12,6 +12,7 @@
                 "Space adventure to the stars?",
                 "Discovering what's beyond our solar system?",
                 "Flying past the solar system?"
+                
             ],
             "responses": [
                 "Are you ready for the ultimate space adventure? Let's strap in and journey beyond our solar system to explore the wonders of the universe! Picture this: zooming past planets and moons, we encounter billions of stars twinkling in the distance, each one a sun in its own right. And beyond those stars lie vast galaxies, each containing billions of stars and planets waiting to be discovered. So, let's embark on this incredible journey together and uncover the mysteries of the cosmos!"
@@ -22,7 +23,11 @@
             "tag": "beyondSolarSystemOverview",
             "patterns": [
                 "Tell me what's beyond the solar system.",
-                "Describe the universe."
+                "Describe the universe.",
+                "What is beyond the solar system?",
+                "What's outside our solar system?",
+                "What's beyond the stars?",
+                "What's beyond our solar system?"
             ],
             "responses":[
                 "Beyond our solar system, there's a huge universe with billions of stars, just like our Sun, but much further away!"
@@ -69,7 +74,8 @@
             "patterns": [
                 "Are there other planets like Earth?",
                 "Have we found other planets like Earth?",
-                "Can we go to other planets like Earth?"
+                "Can we go to other planets like Earth?",
+                "Are there planets like earth?"
             ],
             "responses": [
                 "Scientists think there might be planets like Earth in other parts of the universe, but they're so far away, we can't visit them yet."
@@ -106,7 +112,8 @@
                 "Study of the universe.",
                 "Voyager probe's journey.",
                 "What's out there in space?",
-                "Universe exploration."
+                "Universe exploration.",
+                "Have we explored outside the solar system?"
             ],
             "responses": [
                 "Did you know that our robot explorer, Voyager probe, is venturing into the unknown, sending back fascinating data from beyond our solar system? And it's not just robots doing the exploring, scientists are using gigantic telescopes to peek far into space, discovering new stars and even entire galaxies! What's even more mind-blowing is that some of these stars have their own planets, just like our Sun does with Earth and the other planets. Exploring the universe isn't just about discovering new things; it's about understanding the vastness and wonder of space, with countless mysteries waiting to be unraveled. Who knows? Maybe one day, we'll even find out if there's life on planets orbiting other stars. Now, wouldn't that be absolutely incredible?"

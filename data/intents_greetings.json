@@ -133,7 +133,22 @@
             "What are some space wonders?"
             ],
             "responses": [
-            "Welcome to our solar system! Here you can see all the planets orbiting our Sun. Which planet would you like to visit?"
+            "Welcome to our solar system! Here you can see all the planets that orbit our Sun. Which planet would you like to visit?"
+            ],
+            "image_url": ["https://images-assets.nasa.gov/image/PIA10969/PIA10969~medium.jpg"]
+        },
+        {
+            "tag": "solarSystemComposition",
+            "patterns": [
+                "What are all the planets in the solar system?",
+                "Tell me about the planets in the solar system",
+                "What are the planets in our solar system?",
+                "List of planets in the solar system",
+                "What are the names of the planets in the solar system?",
+                "How many planets are there in the solar system?"
+            ],
+            "responses": [
+                "Our solar system has eight planets. Starting from the closest to the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Each planet has its own unique features and mysteries to explore. Which planet would you like to learn more about?"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA10969/PIA10969~medium.jpg"]
         }, 
@@ -202,7 +217,9 @@
                 "That's great, thanks",
                 "I appreciate your help",
                 "Thankful for your help",
-                "You've been helpful"
+                "You've been helpful",
+                "thankyou",
+                "thanks buddy"
             ],
             "responses": [
                 "Happy to help!",

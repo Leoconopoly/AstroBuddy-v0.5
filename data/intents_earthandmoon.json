@@ -33,16 +33,16 @@
         {
             "tag": "earthOverview",
             "patterns": [
-                "Tell me about Earth.",
+                "Tell me about Earth",
                 "What's special about Earth?",
-                "Describe Earth.",
-                "Facts about Earth.",
-                "Information on Earth.",
+                "Describe Earth",
+                "Facts about Earth",
+                "Information on Earth",
                 "What makes Earth unique?",
-                "Earth features.",
-                "Explain Earth's properties.",
-                "Characteristics of Earth.",
-                "Details about Earth.",
+                "Earth features",
+                "Explain Earth's properties",
+                "Characteristics of Earth",
+                "Details about Earth",
                 "What is Earth made of?"
             ],
             "responses": [

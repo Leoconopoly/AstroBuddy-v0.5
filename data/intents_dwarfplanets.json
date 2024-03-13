@@ -32,6 +32,7 @@
                 "Journey to Pluto.",
                 "Cool things about Pluto.",
                 "Is Pluto still a planet?",
+                "Is pluto still a planet",
                 "Why was Pluto demoted?"
             ],
             "responses": [
@@ -100,8 +101,9 @@
             "tag": "kuiperBeltExploration",
             "patterns": [
                 "Who has visited the Kuiper Belt?",
-                "Flying to the Kuiper Belt.",
-                "Exploring the Kuiper Belt?"
+                "Flying to the Kuiper Belt",
+                "Exploring the Kuiper Belt?",
+                "exploring the kuiper belt"
             ],
             "responses": [
                 "New Horizons is on an incredible journey through the Kuiper Belt, exploring other icy objects beyond Pluto. It's like a cosmic detective uncovering the mysteries of our solar system's outer reaches!"

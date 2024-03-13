@@ -18,7 +18,10 @@
                 "Is Pluto still a planet?",
                 "Why isn't Pluto considered a planet anymore?",
                 "Why is Pluto not a planet anymore?",
-                "Why is Pluto considered a dwarf planet?"
+                "Why is Pluto considered a dwarf planet?",
+                "is pluto a planet",
+                "is pluto still a planet",
+                "why is pluto not a planet"
             ],
             "responses": [
                 "Pluto was reclassified as a dwarf planet in 2006 because it doesn't meet all the criteria to be considered a full-sized planet. One main reason is that it hasn't cleared its orbit of other debris."
@@ -87,7 +90,9 @@
             "patterns": [
                 "Is the universe infinite?",
                 "Does space go on forever?",
-                "How big is the universe?"
+                "How big is the universe?",
+                "how big is the universe",
+                "how big is space"
             ],
             "responses": [
                 "The observable universe has a limit to what we can see, about 93 billion light-years in diameter. Beyond that, we're not sure if the universe is infinite or not."
@@ -98,7 +103,8 @@
             "tag": "misconceptionAboutGravity",
             "patterns": [
                 "Is there gravity in space?",
-                "Why do things float in space if there's gravity?"
+                "Why do things float in space if there's gravity?",
+                "why do things float in space"
             ],
             "responses": [
                 "There is gravity in space, which keeps planets in orbit around stars and galaxies together. Astronauts float because they are in free-fall around the Earth, creating a sensation of weightlessness."
@@ -110,7 +116,8 @@
             "patterns": [
                 "Is there water on Mars?",
                 "Can humans live on Mars?",
-                "Is Mars habitable?"
+                "Is Mars habitable?",
+                "can we live on mars"
             ],
             "responses": [
                 "Mars has water, but most of it is frozen in the polar ice caps. The thin atmosphere and cold temperatures make it difficult for humans to live there without special equipment."

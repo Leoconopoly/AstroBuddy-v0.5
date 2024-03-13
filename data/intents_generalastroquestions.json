@@ -31,10 +31,11 @@
         {
             "tag": "starColor",
             "patterns": [
-                "Can stars change color?",
+                "Can stars change colour?",
                 "Why do stars have different colours?",
-                "Do stars change color?",
-                "What makes stars different colours?"
+                "Do stars change colour?",
+                "What makes stars different colours?",
+                "What colour are stars"
             ],
             "responses": [
                 "Yes, stars can change colour, just like the leaves on trees in autumn! It all depends on how hot they are. Hotter stars glow blue, like a sizzling firework, while cooler stars shine red, like a cozy campfire. So, next time you look up at the night sky, see if you can spot stars of different colors!"
@@ -124,7 +125,9 @@
             "patterns": [
                 "What do astronauts eat in space?",
                 "What kind of food is in space?",
-                "Do astronauts eat regular food?"
+                "Do astronauts eat regular food?",
+                "What kind of food is in space",
+                "What do astronauts eat?"
             ],
             "responses": [
                 "Astronauts eat specially prepared food that can last a long time and is easy to eat in microgravity. They have a variety of meals, just like on Earth, but it's packaged differently to handle space conditions."
@@ -135,7 +138,9 @@
             "tag": "astronautSleep",
             "patterns": [
                 "How do astronauts sleep in space?",
-                "Do astronauts sleep in space?"
+                "Do astronauts sleep in space?",
+                "sleeping in space",
+                "how do you sleep in space?"
             ],
             "responses":[
                 "Astronauts sleep in sleeping bags attached to the walls or ceiling so they don't float around. They can strap themselves to keep in one place during their sleep."
@@ -160,7 +165,9 @@
                 "What is the International Space Station?",
                 "How do astronauts live in space?",
                 "What do astronauts do in the International Space Station?",
-                "How long do astronauts stay in the International Space Station?"
+                "How long do astronauts stay in the International Space Station?",
+                "What is the ISS?",
+                "space station"
             ],
             "responses":[
                 "The International Space Station is like a floating home in space, where astronauts live and work together. It circles around Earth, providing a unique place for important scientific experiments. Astronauts stay there for about 6 months, sleeping, eating, exercising, and doing all sorts of cool experiments. They study how our bodies respond to space, grow plants, and test out new technologies. It's like a hub for exploring the mysteries of space and learning how we can live and work in this amazing environment!"
@@ -173,7 +180,13 @@
                 "What is the Hubble Space Telescope?",
                 "How does the Hubble Space Telescope work?",
                 "What has the Hubble Space Telescope discovered?",
-                "How far can the Hubble Space Telescope see?"
+                "How far can the Hubble Space Telescope see?",
+                "space telescope",
+                "hubble",
+                "hubble telescope",
+                "hubble space telescope",
+                "what is the hubble?",
+                "what is the hubble telescope?"
             ],
             "responses":[
                 "The Hubble Space Telescope is a powerful telescope that orbits Earth, providing clear images of space. It has helped scientists discover new planets, stars, and galaxies, and has given us a better understanding of the universe. It can see objects billions of light-years away!"
@@ -184,7 +197,12 @@
             "tag": "firstAstronaut",
             "patterns":[
                 "Who was the first person in space?",
-                "When did the first person go to space?"
+                "When did the first person go to space?",
+                "First astronaut",
+                "First person in space",
+                "First human in space",
+                "First person to go to space",
+                "who was the first astronaut?"
             ],
             "responses":[
                 "The first person in space was Yuri Gagarin, a Soviet cosmonaut, who orbited Earth on April 12, 1961."
@@ -232,7 +250,9 @@
                 "Which planet is closest to the Sun?",
                 "What is the closest planet to the Sun?",
                 "What planet is closest to the Sun?",
-                "What is the nearest planet to the Sun?"
+                "What is the nearest planet to the Sun?",
+                "planet closest to the Sun",
+                "nearest planet to the sun"
             ],
             "responses": [
                 "Mercury is the closest planet to the Sun."
@@ -244,7 +264,7 @@
             "patterns": [
                 "What planet is known as the Red Planet?",
                 "Why is Mars called the Red Planet?",
-                "Why is Mars red?",
+                "Why is Mars red",
                 "What makes Mars red?"
             ],
             "responses": [
@@ -258,7 +278,12 @@
                 "Can you tell me about Saturn's rings?",
                 "What are Saturn's rings made of?",
                 "What are the rings around Saturn made of?",
-                "What is Saturn's ring made of?"
+                "What is Saturn's ring made of?",
+                "What are Saturn's rings?",
+                "What are the rings around Saturn?",
+                "What are Saturn's rings like?",
+                "What are the rings of Saturn like?",
+                "What are Saturn's rings composed of?"
             ],
             "responses": [
                 "Saturn's rings are made of ice and rock. Some pieces are as small as dust grains, while others are as big as mountains!"
@@ -305,16 +330,7 @@
                 "Are there aliens in our galaxy?"
             ],
             "responses":[
-                "Aliens are creatures that come from other planets. While we haven't found any aliens yet, some scientists think there might be aliens somewhere out there in space. If aliens do exist, they could look very different from us, with strange features like big eyes or green skin! However, until we find evidence of aliens, they remain a mystery.",
-                "Aliens are beings that live on other planets in our universe. We haven't found any aliens yet, but scientists are always looking! If aliens do exist, they might be very different from us. They could have different body shapes, colors, and ways of communicating. We may even find out that some aliens are friendly and want to learn about us, just like we want to learn about them!",
-                "Aliens are creatures that might live on other planets. While we haven't met any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like flying, changing shape, or even living forever! But until we find proof of aliens, they will remain a mystery waiting to be solved.",
-                "Aliens are beings from other planets in the universe. While we haven't seen any aliens yet, scientists are looking for signs of alien life. If aliens do exist, they could have very different bodies from us, with extra limbs, strange colors, or even the ability to change shape! But until we find evidence of aliens, they will remain a fascinating mystery.",
-                "Aliens are creatures that come from other planets. While we haven't found any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like the power to control the weather, communicate telepathically, or even travel through time! But until we find evidence of aliens, they will remain a mystery waiting to be solved.",
-                "Aliens are beings that come from other planets in the universe. While we haven't met any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like the power to heal, control the elements, or even change their shape! But until we find evidence of aliens, they will remain a mystery.",
-                "Aliens are creatures that might live on other planets. While we haven't met any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like super strength, the power to fly, or even the ability to live forever! But until we find evidence of aliens, they will remain a mystery.",
-                "Aliens are beings from other planets in the universe. While we haven't seen any aliens yet, scientists are looking for signs of alien life. If aliens do exist, they could have very different bodies from us, with extra eyes, long tails, or even the ability to change color! But until we find evidence of aliens, they will remain a fascinating mystery.",
-                "Aliens are creatures that come from other planets. While we haven't found any aliens yet, scientists think they might exist somewhere in the universe. If aliens do exist, they could have all kinds of amazing abilities, like the power to control the weather, communicate telepathically, or even travel through time! But until we find evidence of aliens, they will remain a mystery waiting to be solved.",
-                "Aliens are beings that live on other planets in our universe. While we haven't met any aliens yet, scientists are always searching for signs of alien life. If aliens do exist, they could have all kinds of amazing abilities, like the power to heal, control the elements, or even change their shape! But until we find evidence of aliens, they will remain a mystery."
+                "Aliens are like the characters in our wildest imaginations! They're creatures that some scientists believe might live on other planets in the big, wide universe. Just think about it - they could look totally different from us, maybe with big eyes or funny-coloured skin! But right now, they're still a big mystery waiting to be solved. Maybe one day we'll find out for sure if they're out there!"
             ],
             "image_url": ["https://images-assets.nasa.gov/image/PIA13782/PIA13782~small.jpg"]
         }
