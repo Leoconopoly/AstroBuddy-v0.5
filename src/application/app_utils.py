@@ -5,7 +5,7 @@ from PyQt5.QtGui import QFontDatabase
 def add_font():
     # Add the font loading logic here
     # Path to the custom font file
-    font_path = "C:/Users/leoco/AppData/Local/Microsoft/Windows/Fonts/OpenDyslexic-Regular.otf"
+    font_path = "project_media/OpenDyslexic-Regular.otf"
     # Add the font to the application font database and get its ID
     dyslexic_font_id = QFontDatabase.addApplicationFont(font_path)
     # Get the font family name from the font ID
