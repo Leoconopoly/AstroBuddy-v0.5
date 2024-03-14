@@ -11,8 +11,8 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont, QPixmap
 from chat_logic.chat import get_response, bot_name
 from utils.log_manager import logger
-from app_utils import add_font
-from ui_components import MediaViewer  
+from application.app_utils import add_font
+from application.ui_components import MediaViewer  
 
 # Log that the AstroBuddy Chat Application has started
 logger.info("AstroBuddy Chat Application Started")

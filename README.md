@@ -72,12 +72,12 @@ The project files are organized as follows:
 - **`project_media/`**: Contains all relevant media files used in the project.
 - **`log_data/`**: Contains `chat_logs.db` and temporary log files from all chats.
 - **`src/`**: Contains the following source code files:
+  - **`main.py`**: Executes the GUI program and all other associated programs. 
   - **`api/`**: Handles all API functions.
     - **`nasa_media_requests.py`**: IN DEVELOPMENT - handles logic for pulling search images from NASA image library
   - **`application/`**: Functions for handling the GUI.    
     - **`app_utils.py`**: Utilities used by the GUI.    
     - **`application_logic.py`**: Handles the logic behind the GUI.    
-    - **`main.py`**: Executes the GUI program and all other associated programs.    
     - **`ui_components.py`**: Handles the GUI components.  
   - **`chat_logic/`**: Directory for chat logic.    
     - **`chat.py`**: Handles chat logic.  
