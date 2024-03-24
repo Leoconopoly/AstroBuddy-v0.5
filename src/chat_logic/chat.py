@@ -88,9 +88,10 @@ def get_response(msg):
     tag = tags[predicted.item()]
     probs = torch.softmax(output, dim=1)
     confidence = probs[0][predicted.item()].item()
+    print(tag, confidence)
 
     # Determine the response and image URL based on confidence level and availability of responses
-    if confidence > 0.8 and tag in intents_responses:
+    if confidence > 0.75 and tag in intents_responses:
         response = random.choice(intents_responses[tag])
         # Fetch image_url for the tag. Use default if not available.
         image_url = images.get(tag, "project_media/astobuddyfullavatar.png")
